@@ -1,0 +1,5 @@
+[2024-03-12 05:19:56] xcloner_restore.INFO: Processing ajax request ID _93mmlczbr [] []
+[2024-03-12 05:19:56] xcloner_restore.DEBUG: Starting action list_backup_archives_action [] []
+[2024-03-12 05:19:57] xcloner_restore.INFO: Processing ajax request ID _ytj2jlh5j [] []
+[2024-03-12 05:19:57] xcloner_restore.DEBUG: Starting action get_current_directory_action [] []
+[2024-03-12 05:19:57] xcloner_restore.INFO: Determining current url as C:\xampp\htdocs\testwp and path as http://localhost:3000/testwp [] []

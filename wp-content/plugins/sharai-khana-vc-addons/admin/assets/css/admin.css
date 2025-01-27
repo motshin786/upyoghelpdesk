@@ -1,0 +1,105 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+.vc_element-icon.icon-sharai-khana-vc-addon {
+    background-image: url("./../images/icon-sharai-khana-vc-addon.png") !important;
+    background-position: 0 0 !important;
+}
+
+.vc_element-icon.icon-sharai-khana-vc-addon {
+    background-image: url("./../images/icon-sharai-khana-vc-addon.png") !important;
+}
+
+/*-- Suggestion  --*/
+
+.ui-autocomplete{
+    max-height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 100000 !important;
+}
+
+div.wpb_sharai_khana_logo_item img.slider_image{
+    width: 32px;
+    height: 32px;
+}
+
+#vc_license-activation-notice{
+    display: none;
+}
+
+img.cta_image,
+img.logo_image,
+img.slider_image,
+img.gallery_img{
+    width: 24px;
+    height: 24px;
+    margin-top: 3px;
+}
+
+.vc_admin_label label{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    color: #555;
+}
+
+/*-- Redux Config --*/
+
+.redux-main .color-transparency-check {
+    position: relative;
+    top: -3px;
+    left: 6px;
+}
+
+.redux-main .redux-container-background .upload,
+.redux-container .redux-main input.large-text{
+    padding: 8px;
+    margin-bottom: 5px;
+    margin-top: 12px;
+}
+
+/*-- One Click Demo Import Styling --*/
+
+.ocdi{
+    clear: both;
+}
+
+.ocdi .ocdi__intro-text{
+    clear: both;
+}
+
+.ocdi hr{
+    margin: 24px 0;
+}
+
+.ocdi__intro-text .about-description{
+    font-size: 16px;
+    background: gray;
+    color: #FFF;
+    padding: 8px 12px;
+}
+
+.ocdi__intro-text ul {
+    padding: 0 16px;
+    list-style-type: square;
+    margin-bottom: 32px;
+}
+
+.ocdi__import-mode-switch {
+    float: none;
+    margin: 42px 0 24px 0;
+    background: #FFFFFF;
+    padding: 12px;
+    border: 1px solid #bababa;
+    text-decoration: none;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.ocdi__gl-item {
+    width: calc(25% - 30px);
+    margin: 0 30px 30px 0;
+}
+
+.ocdi__modal-image-container{
+    height: 500px;
+}

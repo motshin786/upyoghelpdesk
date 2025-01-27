@@ -1,0 +1,526 @@
+/*
+Theme Name: Sharai Khana - Computer Service Center WordPress Theme
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+01. COMMON
+02. TOOLBAR
+03. NAVIGATION MENU
+04. WIDGETS
+05. PAGES
+06. WOOCOMMERCE 
+07. CONTACT PAGE
+07. FOOTER
+09. MEDIA QUERIES
+--------------------------------------------------------------*/
+
+/*----- 01. COMMON----*/
+
+html {
+    direction: rtl;
+}
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.section-heading:after {
+    left: initial;
+    margin-right: -70px;
+    right: 50%;
+    margin-left: 0;
+}
+
+h2.only-heading:after {
+    left: initial;
+    right: 0;
+}
+
+.theme-help-block{
+    text-align: left;
+}
+
+/*----- 02. TOOLBAR ----*/
+
+#toolbar .col-lg-10{
+    float: right;
+}
+
+#toolbar .col-lg-2{
+    float: left;
+}
+
+#toolbar ul.top-bar-info li{
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+#toolbar ul.top-bar-info .top-bar-dot{
+    margin: 0;
+    margin-left: 12px;
+}
+
+#toolbar ul.top-bar-info li:after {
+
+}
+
+#toolbar ul.top-bar-info li:last-child:after {
+    display: block;  
+}
+
+#toolbar ul.top-bar-info li:first-child:after {
+    display: none;
+}
+
+/*----- 03. NAVIGATION MENU ----*/
+
+#masthead .col-md-3{
+    float: right;
+}
+
+.main-navigation ul{
+    float: left;
+    /*padding-right: 0;*/
+}
+
+.main-navigation li{
+    float: right;
+    text-align: right;
+}
+
+
+/*----- Header Default Style ----*/
+
+.header-style-default .col-toolbar-left,
+.header-style-default .col-site-logo,
+.header-style-default .col-primary-menu{
+    float: right;
+}
+
+.header-style-default .col-toolbar-right .toolbar-right{
+    float: left;
+}
+
+.header-style-default .main-navigation ul.menu{
+    padding: 0;
+}
+
+.header-style-default .main-navigation ul ul{
+    left: initial;
+    right: 0;
+}
+
+.header-style-default .header-icon-box .text{
+    padding-left: 0px;
+    padding-right: 16px;
+}
+
+.header-style-default .header-icon-box{
+    padding-left: 0;
+    padding-right: 42px;
+}
+
+.header-style-default .header-icon-box .icon-container{
+    left: initial;
+    right: 0;
+}
+
+
+/*----- Header Style 01 ----*/
+
+.header-style-1 .col-toolbar-left,
+.header-style-1 .col-site-logo,
+.header-style-1 .col-primary-menu{
+    float: right;
+}
+
+.header-style-1 .col-toolbar-right .toolbar-right{
+    float: left;
+}
+
+.header-style-1 .main-navigation ul.menu{
+    padding: 0;
+}
+
+.header-style-1 .main-navigation ul ul{
+    left: initial;
+    right: 0;
+}
+
+.header-style-1 .header-icon-box .text{
+    padding-left: 0px;
+    padding-right: 16px;
+}
+
+.header-style-1 .header-icon-box{
+    padding-left: 0;
+    padding-right: 42px;
+}
+
+.header-style-1 .header-icon-box .icon-container{
+    left: initial;
+    right: 0;
+}
+
+/*----- 04. WIDGETS ----*/
+
+ol.comment-list{
+    padding-right: 0;
+}
+
+ol.comment-list .comment-author {
+    float: right !important;
+}
+
+ol.comment-list .comment-author img{
+    margin-left: 12px;
+    margin-0: 12px;
+}
+
+#bottom h3::after{
+    right: initial;
+    left: 0;
+    margin-right: 0px;
+    margin-left: -70px;
+}
+
+#secondary h2.widgettitle::after, 
+#secondary h3.widget-title::after, 
+#secondary_2 h3.widget-title::after{
+    left: initial;
+    right: 0;
+}
+
+
+
+.single-post-inner .tags-links a{
+    margin-right: 0px;
+    margin-left: 4px;
+}
+
+.single-post-inner .tags-links a:last-child{
+    margin-left: 0px;
+}
+
+.pager{
+    padding: 0;
+}
+
+/*----- Widget Recent Post ----*/
+
+.widget_recent_entries li a{
+    padding-left: 0px;
+    padding-right: 16px !important;
+}
+
+.widget_recent_entries li a:before{
+    top: 2px;
+    left: -5px;
+    content: '\f104';
+}
+
+/*----- Widget Category ----*/
+
+.product-categories li a,
+.widget_categories li a{
+    padding-left: 0px;
+    padding-right: 16px !important;
+}
+
+.product-categories li a:before,
+.widget_categories li a:before{
+    top: 2px;
+    left: -5px;
+    content: '\f104';
+}
+
+/*----- Widget Pages ----*/
+
+.widget_pages li a{
+    padding-left: 0px;
+    padding-right: 16px !important;
+}
+
+.widget_pages li a:before{
+    top: 2px;
+    left: -5px;
+    content: '\f104';
+}
+
+.widget_pages ul li ul{
+    padding-left: 0;
+    padding-right: 12px;
+}
+
+/*----- Widget Nav Menu ----*/
+
+.widget_nav_menu li a{
+    padding-left: 0px;
+    padding-right: 16px !important;
+}
+
+.widget_nav_menu li a:before{
+    top: 2px;
+    left: -5px;
+}
+
+.widget_nav_menu ul li ul{
+    padding-left: 0;
+    padding-right: 12px;
+}
+
+/*----- Widget Comment ----*/
+
+.widget_recent_comments li{
+    padding-left: 0px;
+    padding-right: 32px;
+    position: relative;
+}
+
+.widget_recent_comments li:before{
+    top: 2px;
+    left: initial;
+    right: 0;
+    transform: rotateY(0deg);
+}
+
+/*----- Widget Archive ----*/
+
+.widget_archive li a{
+    padding-left: 0px;
+    padding-right: 24px !important;
+}
+
+.widget_archive li a:before{
+    top: 2px;
+    left: -2px;
+}
+
+/*----- Search Widget ----*/
+
+.search-form input[type="text"]{
+    border: 1px solid #CCCCCC;
+    border-left: 0px;
+}
+
+.search-form span.input-group-addon {
+
+    border-right: 0px solid #CCC;
+    border-left: 1px solid #CCC;
+}
+
+/*----- 05. PAGES ----*/
+
+
+#content{
+    clear: both;
+}
+
+#content #primary{
+    clear: both;
+}
+
+#content #primary.col-md-8{
+    float: right;
+}
+
+article.sticky::after{
+    left: 12px;
+    right: initial;
+}
+
+.entry-meta span {
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+.entry-meta span:last-child {
+    margin-left: 0;
+}
+
+/*----- 06. WOOCOMMERCE ----*/
+
+.woocommerce ul.products li.product{
+    width: 30.75%;
+    margin: 0 0 2.992em 3.8%;
+}
+
+.woocommerce ul.products li.product:nth-child(3n+3) {
+    width: 30.75%;
+    margin: 0 0% 2.992em 0;
+}
+
+/*----- 07. CONTACT PAGE ----*/
+
+.contact-info{
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.contact-info li{
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.contact-info li span.icon-container{
+    margin-right: 0 !important;
+    margin-left: 12px;
+}
+
+.social-icons{
+    float: right;
+}
+
+.wpcf7-form{
+    clear: both;
+}
+
+.wpcf7-form input[type="email"], .wpcf7-form input[type="text"], .wpcf7-form textarea{
+    text-align: right;
+}
+
+.wpcf7-form input[type="submit"]{
+    float: right;
+}
+
+/*----- 08. FOOTER ----*/
+
+.page .post-edit-link {
+    margin-left: 6px;
+    margin-right: 24px;
+}
+
+.footer-menu li:nth-child(n+2) {
+    margin-right: 9px;
+    margin-left: 0px;
+}
+
+.footer-menu li:nth-child(n+2)::before {
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.copyright{
+    text-align: left;
+}
+
+/*----- 09. MEDIA QUERIES ----*/
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    .main-navigation ul{
+        float: none;
+    }
+
+}
+
+/* All Mobile Sizes (devices and browser) */
+
+@media only screen and (max-width: 767px) {
+
+    #masthead .col-md-3{
+        float: none;
+    }
+
+    .main-navigation .menu a{
+        padding-right: 24px !important;
+    }
+    .main-navigation ul {
+        float: left;
+        padding: 0;
+        width: 100%;
+    }
+
+    .main-navigation li {
+        float: right;
+        text-align: right;
+        width: 100%;
+    }
+
+
+    .btn-menu-close{
+        right: initial;
+        left: -12px;
+    }
+
+    span.sub-menu-nav-arrow{
+        right: initial;
+        left: 4px;
+    }
+
+    /*----- Start Header Default Navigation ----*/
+
+    .header-style-default .site_primary_menu{
+        background: #FFFFFF;
+    }
+
+    .header-style-default .col-site-logo{
+        float: right !important;
+    }
+
+    .header-style-default .col-primary-menu{
+        float: none;
+    }
+    .header-style-default .menu-toggle{
+        right: initial;
+        left: 0;
+    }
+    
+    
+    /*-- Mobile Menu Left--*/
+
+    .header-style-1 .mob-menu-left .site-logo,
+    .mob-menu-left .site-logo{
+        margin-left: 0px;  
+        margin-right: 48px;  
+    }
+
+    .mob-menu-left .menu-toggle{
+        left: initial;
+        right: 0;
+    }
+    
+    .header-style-1 .mob-menu-left .menu-toggle{
+        left: initial;
+        top: -64px;
+        right: 0;
+    }
+
+    /*----- Start Header 01 Navigation ----*/
+
+    .header-style-1 .site_primary_menu{
+        background: #FFFFFF;
+    }
+
+    .header-style-1 .col-primary-menu{
+        float: none;
+    }
+    .header-style-1 .menu-toggle{
+        right: initial;
+        left: 0;
+    }
+
+    #content #primary.col-md-8{
+        float: none;
+    }
+
+
+    #tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow::after{
+        right: initial;
+        left: 0;
+    }
+
+    #tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow{
+        left: 10px;
+        right: initial;
+    }
+}

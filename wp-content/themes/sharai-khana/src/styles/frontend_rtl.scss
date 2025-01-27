@@ -1,0 +1,234 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+01. COMMON
+02. TOOLBAR
+03. NAVIGATION MENU
+3 Bottom About Us
+4 Twitter
+5 Footer
+6 Post Meta
+--------------------------------------------------------------*/
+
+/*----- 01. COMMON----*/
+
+html {
+  direction: rtl;
+}
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+ul {
+  padding-right: 0px;
+}
+
+h2.only-heading::after {
+  left: initial;
+  right: 0;
+}
+
+/*----- 02. TOOLBAR ----*/
+
+#toolbar .col-lg-6 {
+  float: right;
+}
+
+#toolbar .col-lg-6 .toolbar-left {
+  text-align: right;
+  margin-right: 0;
+}
+
+#toolbar .col-lg-6 .toolbar-right {
+  float: left;
+}
+
+#toolbar ul.top-bar-info li {
+  margin-right: 0;
+  margin-left: 20px;
+}
+
+#toolbar ul.top-bar-info li:after {
+  clear: both;
+}
+
+#toolbar ul.top-bar-info li:last-child:after {
+  display: block;
+}
+
+#toolbar ul.top-bar-info li:first-child:after {
+  display: none;
+}
+
+/*----- 03. NAVIGATION MENU ----*/
+
+#masthead .col-md-3 {
+  float: right;
+}
+
+.main-navigation ul {
+  float: left;
+}
+
+.main-navigation li {
+  float: right;
+}
+
+/*----- 04. Knowledge Base Plugin Content ----*/
+
+.bkb-content .fa {
+  right: initial;
+  left: 24px;
+}
+.kb-cat-lists h2::after,
+.bwl-kb h2.bwl-kb-category-title::after,
+.kb-cat-block h2::after {
+  left: initial;
+  right: 12px;
+}
+.kb-cat-lists h2 span.cat-counter,
+.bwl-kb h2.bwl-kb-category-title a span.items-counter {
+  left: 0;
+  right: 6px;
+}
+
+.ask-question-section .bkb-ques-form-container h2::after {
+  left: initial;
+  right: 0;
+}
+
+section.bkb-ques-form-container {
+  float: left;
+}
+
+span.bkbm-btn-clear {
+  right: initial !important;
+}
+
+/*-----  05. Single Page RTL Layout ----*/
+
+.rtl #primary {
+  float: right;
+}
+
+#secondary h2.widgettitle::after,
+#secondary h3.widget-title::after,
+#secondary_2 h3.widget-title::after {
+  left: initial;
+  right: 0;
+}
+
+.article-author .author-avatar img {
+  float: left;
+}
+
+.article-author .social-icons {
+  float: right;
+}
+
+/*2 Widgets*/
+
+#bottom .widget-title:before,
+#bottom .widget-title:after {
+  right: 0%;
+}
+
+/*3 Bottom About Us */
+ul.location li {
+  padding-right: 30px;
+  padding-left: 0px;
+}
+
+ul.location li:before {
+  right: 0;
+}
+
+/*4 Twitter*/
+
+.latest-tweets ul li {
+  padding-right: 30px;
+  padding-left: 0px;
+}
+
+.latest-tweets ul li:before {
+  right: 0px;
+}
+
+/*5 Footer*/
+
+.footer-menu li:nth-child(n + 2) {
+  margin-right: 9px;
+  margin-left: 0px;
+}
+
+.footer-menu li:nth-child(n + 2)::before {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+/*6 Post Meta*/
+
+.entry-meta span {
+  margin-left: 20px;
+  margin-right: 0px;
+}
+
+.entry-meta span:last-child {
+  margin-left: 0;
+}
+
+/*----- 09. MEDIA QUERIES ----*/
+
+/* All Mobile Sizes (devices and browser) */
+
+@media only screen and (max-width: 767px) {
+  #masthead .col-md-3 {
+    float: none;
+  }
+
+  .main-navigation .menu a {
+    padding-right: 12px !important;
+  }
+
+  .main-navigation ul {
+    float: left;
+    padding: 0;
+  }
+
+  .main-navigation ul ul {
+    padding-left: 0;
+    padding-right: 12px;
+  }
+
+  .main-navigation li {
+    float: right;
+    text-align: right;
+    width: 100%;
+  }
+
+  .btn-menu-close {
+    right: initial;
+    left: -12px;
+  }
+
+  span.sub-menu-nav-arrow {
+    right: initial;
+    left: 4px;
+  }
+
+  #content #primary.col-md-8 {
+    float: none;
+  }
+
+  #tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow::after {
+    right: initial;
+    left: 0;
+  }
+
+  #tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow {
+    left: 10px;
+    right: initial;
+  }
+}

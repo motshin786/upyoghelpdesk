@@ -1,0 +1,40 @@
+/*3.11 404 Page*/
+
+.section-404 {
+  background: #f9fafb;
+}
+
+.message-container-404 {
+  margin: 48px 0;
+}
+
+.message-container-404 .text-404 {
+  font-size: 170px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin: 80px 0;
+  color: #40c1f0;
+}
+
+.message-container-404 .text-404 span {
+  color: #1095c7;
+}
+
+.message-container-404 .search-form-404 {
+  margin: 0 auto;
+  padding: 5px 5px;
+  width: 40%;
+}
+
+.message-container-404 .search-form-404 .search-form input[type="text"] {
+  border: 1px solid #eeeeee;
+  border-left: 0px;
+  box-shadow: none;
+}
+
+.message-container-404 .message-text-404 {
+  padding: 24px 160px;
+  display: block;
+  text-align: center;
+}

@@ -1,0 +1,80 @@
+.section-contact-block {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.section-contact-block .contact-title {
+  font-size: 24px;
+  border-bottom: 3px solid #eeeeee;
+  color: #5c5c5c;
+  padding-bottom: 15px;
+  position: relative;
+  font-weight: 500;
+}
+
+.section-contact-block .contact-title:after {
+  bottom: -3px;
+  content: "";
+  height: 3px;
+  left: 0;
+  position: absolute;
+  width: 32px;
+  background: #40c1f0;
+}
+
+.section-contact-block .contact-info {
+  padding-left: 0px;
+}
+
+.section-contact-block .contact-info li {
+  list-style-type: none;
+  margin-bottom: 8px;
+}
+
+.section-contact-block .contact-info .icon-container {
+  display: inline-block;
+  background: #40c1f0;
+  color: #ffffff;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  margin-right: 16px;
+}
+
+.section-contact-block .contact-info .icon-container i {
+  font-size: 14px;
+}
+
+.section-contact-block .contact-info address {
+  display: inline-block;
+}
+
+.section-contact-block .contact-info a {
+  color: #1a1a1a;
+}
+
+.section-contact-block .contact-info a:hover {
+  color: #40c1f0;
+}
+
+.btn-social-icon {
+  border: 0 none;
+  border-radius: 0;
+  height: 42px;
+  margin: 3px;
+  width: 42px;
+}
+
+.btn-social-icon .fa {
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.btn-goggle-plus {
+  background-color: #26b84b;
+}
+
+.btn-goggle-plus:hover {
+  background-color: #20993e;
+}

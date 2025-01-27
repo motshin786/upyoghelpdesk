@@ -1,0 +1,262 @@
+2024-06-04T11:18:57+00:00 CRITICAL Uncaught Error: Call to undefined function do_short() in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:22
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/html/h. in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 22
+
+2024-06-04T11:57:00+00:00 CRITICAL Cannot redeclare save_custom_field_value() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:350) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 136
+
+2024-06-04T12:09:47+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:137
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 137
+
+2024-06-04T12:13:10+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:137
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 137
+
+2024-06-04T12:17:32+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 224
+
+2024-06-04T12:23:24+00:00 CRITICAL Uncaught Error: Call to a member function get_output() on null in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:147
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/w in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-04T12:27:30+00:00 CRITICAL Cannot redeclare register_ticket_custom_taxonomy() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:319) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 134
+
+2024-06-04T17:43:37+00:00 CRITICAL Cannot redeclare register_ticket_custom_taxonomy() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:319) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 134
+
+2024-06-05T06:24:34+00:00 CRITICAL Uncaught Error: Call to undefined method WPAS_Custom_Field::register() in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:928
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(324): custom_define_select_dropdown_field()
+#1 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/html/helpdesknew/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/helpdesknew/wp-settings.php(695): do_action()
+#4 /var/www/html/helpdesknew/wp-config.php(96): require_once('/var/www/html/h...')
+#5 /var/www/html/helpdesknew/wp-load.php(50): require_once('/var/www/html/h...')
+#6 /var/www/html/helpdesknew/wp-blog-header.php(13): require_once('/var/www/html/h...')
+#7 /var/www/html/helpdesknew/index.php(17): require('/var/www/html/h...')
+#8 {main}
+  thrown in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 928
+
+2024-06-05T06:25:17+00:00 CRITICAL Uncaught Error: Call to undefined method WPAS_Custom_Field::register() in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:928
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(324): custom_define_select_dropdown_field()
+#1 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/html/helpdesknew/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/helpdesknew/wp-settings.php(695): do_action()
+#4 /var/www/html/helpdesknew/wp-config.php(96): require_once('/var/www/html/h...')
+#5 /var/www/html/helpdesknew/wp-load.php(50): require_once('/var/www/html/h...')
+#6 /var/www/html/helpdesknew/wp-admin/admin-ajax.php(22): require_once('/var/www/html/h...')
+#7 {main}
+  thrown in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 928
+
+2024-06-05T06:25:38+00:00 CRITICAL Uncaught Error: Call to undefined method WPAS_Custom_Field::register() in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:928
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(324): custom_define_select_dropdown_field()
+#1 /var/www/html/helpdesknew/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/html/helpdesknew/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/html/helpdesknew/wp-settings.php(695): do_action()
+#4 /var/www/html/helpdesknew/wp-config.php(96): require_once('/var/www/html/h...')
+#5 /var/www/html/helpdesknew/wp-load.php(50): require_once('/var/www/html/h...')
+#6 /var/www/html/helpdesknew/wp-admin/admin-ajax.php(22): require_once('/var/www/html/h...')
+#7 {main}
+  thrown in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 928
+
+2024-06-05T06:26:21+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:22+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:30+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:32+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:33+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:33+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:26:33+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 936
+
+2024-06-05T06:30:20+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:136
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 136
+
+2024-06-05T06:44:52+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:136
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 136
+
+2024-06-05T06:45:49+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:136
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 136
+
+2024-06-05T07:02:06+00:00 CRITICAL syntax error, unexpected ''default'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 148
+
+2024-06-05T07:40:39+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 921
+
+2024-06-05T07:41:45+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 921
+
+2024-06-05T07:41:58+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:851) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 921
+
+2024-06-05T07:48:31+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:49:51+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:50:00+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:50:01+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:50:02+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:50:02+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 961
+
+2024-06-05T07:50:31+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 947
+
+2024-06-05T07:50:33+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 947
+
+2024-06-05T07:50:34+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 947
+
+2024-06-05T07:50:34+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 947
+
+2024-06-05T07:50:34+00:00 CRITICAL Cannot redeclare custom_wpas_register_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:859) in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php on line 947
+
+2024-06-05T08:07:12+00:00 CRITICAL Cannot redeclare register_ticket_custom_taxonomy_States() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:393) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 96
+
+2024-06-05T08:09:45+00:00 CRITICAL Cannot redeclare custom_extra_fields() (previously declared in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:217) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 226
+
+2024-06-05T09:48:59+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_taxonomy' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:141
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/h in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 141
+
+2024-06-05T09:52:13+00:00 CRITICAL Uncaught Error: Class 'wpas_add_custom_field' not found in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:147
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www/html in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-05T09:53:44+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 149
+
+2024-06-05T10:29:48+00:00 CRITICAL Uncaught Error: Call to a member function get_output() on bool in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:151
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/w in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 151
+
+2024-06-05T10:30:07+00:00 CRITICAL Uncaught Error: Call to undefined function WPAS_Custom_Field() in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:147
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/w in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-05T10:31:13+00:00 CRITICAL Uncaught Error: Call to undefined function WPAS_Custom_Field() in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:147
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/w in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-05T12:06:19+00:00 CRITICAL Uncaught Error: Call to a member function register() on null in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php:157
+Stack trace:
+#0 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/functions-templating.php(182): include()
+#1 /var/www/html/helpdesknew/wp-content/plugins/awesome-support/includes/shortcodes/shortcode-tickets.php(38): wpas_get_template()
+#2 /var/www/html/helpdesknew/wp-includes/shortcodes.php(433): wpas_sc_client_account()
+#3 [internal function]: do_shortcode_tag()
+#4 /var/www/html/helpdesknew/wp-includes/shortcodes.php(273): preg_replace_callback()
+#5 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/helpers/helpers.php(246): do_shortcode()
+#6 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column_text.php(31): wpb_js_remove_wpautop()
+#7 /var/www/html/helpdesknew/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(451): require('/var/www in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 157
+
+2024-06-05T12:19:50+00:00 CRITICAL require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/helpdesknew/wp-content/plugins/importer-develop/awesome-support-importer.php on line 28
+
+2024-06-05T12:21:37+00:00 CRITICAL require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/html/helpdesknew/wp-content/plugins/importer-develop/awesome-support-importer.php on line 28
+
+2024-06-06T04:48:56+00:00 CRITICAL Cannot redeclare custom_add_registration_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:948) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 172
+
+2024-06-06T04:50:34+00:00 CRITICAL Cannot redeclare custom_add_registration_fields() (previously declared in /var/www/html/helpdesknew/wp-content/themes/sharai-khana/functions.php:948) in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 172
+
+2024-06-06T05:25:44+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:26:39+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:26:56+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:27:09+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:27:54+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:27:58+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:28:37+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 147
+
+2024-06-06T05:36:03+00:00 CRITICAL syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /var/www/html/helpdesknew/wp-content/plugins/awesome-support/themes/default/registration.php on line 148
+

@@ -1,0 +1,9 @@
+06-18-2024 @ 06:04:13 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 4125, Logged In user ID: 44
+06-18-2024 @ 06:05:08 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 4125, Logged In user ID: 44
+06-18-2024 @ 06:08:53 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 4125, Logged In user ID: 44
+06-18-2024 @ 06:09:25 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 4125, Logged In user ID: 44
+06-18-2024 @ 10:51:54 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 4125, Logged In user ID: 44
+08-20-2024 @ 07:47:33 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 334, Logged In user ID: 44
+09-20-2024 @ 10:38:39 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 628, Logged In user ID: 127
+11-27-2024 @ 12:15:00 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 2002, Logged In user ID: 128
+12-26-2024 @ 17:01:25 - A logged in user attempted to access a ticket without the necessary permissions. Ticket id: 2295, Logged In user ID: 127

@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Sharai Khana - Slider Version were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost:3000/testwp
+Data file = C:\xampp\htdocs\testwp/wp-content/themes/sharai-khana/demo-data/content.xml
+Widget file = C:\xampp\htdocs\testwp/wp-content/themes/sharai-khana/demo-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+sharai_khana_wp_options -> C:\xampp\htdocs\testwp/wp-content/themes/sharai-khana/demo-data/theme_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "breadcrumb_bg" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Pages - No Title - Imported
+
+Woocommerce Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+
+Bottom One : 
+
+Text - ABOUT US - Imported
+
+Bottom Two : 
+
+Text - CONTACT US - Imported
+
+Bottom Three : 
+
+Text - OUR SERVICES - Imported
+
+Sidebar Left : 
+
+Text - Widget 01 - Imported
+Text - Widget 02 - Imported
+Text - Widget 03 - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: sharai_khana_wp_options finished successfully!
+
+---ocdi/after_import---
+

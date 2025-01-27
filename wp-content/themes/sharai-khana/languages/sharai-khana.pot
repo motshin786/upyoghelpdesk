@@ -1,0 +1,1790 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharai Khana\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2023-01-05 11:46+0200\n"
+"PO-Revision-Date: 2018-01-31 21:24+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: BlueWindLab <hkhan.cse@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-KeywordsList: _;__;_n;_x;_e;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:34
+msgid "4"
+msgstr ""
+
+#: ../404.php:34
+msgid "0"
+msgstr ""
+
+#: ../404.php:38
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:47 ../searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: ../404.php:50 ../searchform.php:15
+msgid "submit"
+msgstr ""
+
+#: ../404.php:71
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:84 ../woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Write Comment"
+msgstr ""
+
+#: ../comments.php:94 ../woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:99 ../woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:105
+msgid "Website"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can not find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: ../content-page.php:17 ../content-single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:50 ../inc/redux-config.php:336
+#: ../inc/redux-config.php:351 ../inc/redux-config.php:369
+#: ../inc/redux-config.php:668 ../inc/redux-config.php:1407
+#: ../inc/redux-config.php:1417 ../inc/redux-config.php:1534
+#: ../inc/redux-config.php:1851 ../inc/template-tags.php:109
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:60
+msgid "One Page Menu"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:101
+msgid "Main Sidebar Area"
+msgstr ""
+
+#: ../functions.php:124
+msgid "on"
+msgstr ""
+
+#: ../header-style-1.php:222 ../header.php:238
+msgid "Top Menu Location."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:323
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:324
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:329
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:381
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:382
+#: ../inc/class-tgm-plugin-activation.php:901
+#: ../inc/class-tgm-plugin-activation.php:2607
+#: ../inc/class-tgm-plugin-activation.php:3654
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:383
+#: ../inc/class-tgm-plugin-activation.php:3233
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:384
+#: ../inc/class-tgm-plugin-activation.php:3026
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:386
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:388
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:391
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:392
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:596
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:597
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1008
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1008
+#: ../inc/class-tgm-plugin-activation.php:1011
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1011
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2056
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2347
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2350
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2366
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2369
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2372
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2389
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2393
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2395
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2401
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2404
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2407
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2416
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2466
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2470
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2556
+msgid "unknown"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2564
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2572
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2584
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2607
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2621
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2622
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2623
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2627
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2628
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2677
+#: ../inc/class-tgm-plugin-activation.php:2791
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2682
+#: ../inc/class-tgm-plugin-activation.php:2797
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2688
+#: ../inc/class-tgm-plugin-activation.php:2800
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2758
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2831
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2833
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2874
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2876
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2982
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3008
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3232
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3581
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#: ../inc/class-tgm-plugin-activation.php:3591
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#: ../inc/class-tgm-plugin-activation.php:3591
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3584
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3589
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3592
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/comments-callback.php:19
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/comments-callback.php:19 ../inc/comments-callback.php:41
+msgid "Edit"
+msgstr ""
+
+#: ../inc/comments-callback.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/comments-callback.php:55
+msgid "Reply"
+msgstr ""
+
+#: ../inc/custom-widgets.php:5
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: ../inc/custom-widgets.php:7
+msgid "Sidebar Woocommerce Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:15
+msgid "Bottom Jumbo Widget"
+msgstr ""
+
+#: ../inc/custom-widgets.php:17
+msgid "Bottom Jumbo Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:25
+msgid "Bottom One"
+msgstr ""
+
+#: ../inc/custom-widgets.php:27
+msgid "Bottom One Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:35
+msgid "Bottom Two"
+msgstr ""
+
+#: ../inc/custom-widgets.php:37
+msgid "Bottom Two Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:45
+msgid "Bottom Three"
+msgstr ""
+
+#: ../inc/custom-widgets.php:47
+msgid "Bottom Three Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:55
+msgid "Bottom Four"
+msgstr ""
+
+#: ../inc/custom-widgets.php:57
+msgid "Bottom Four Sidebar Area"
+msgstr ""
+
+#: ../inc/custom-widgets.php:65
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../inc/custom-widgets.php:67
+msgid "Sidebar Left Sidebar Area"
+msgstr ""
+
+#: ../inc/extras.php:105
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/extras.php:243
+msgid "Blog Page"
+msgstr ""
+
+#: ../inc/extras.php:254
+msgid "Search Results for: "
+msgstr ""
+
+#: ../inc/extras.php:264
+msgid "404 Page"
+msgstr ""
+
+#: ../inc/extras.php:421
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:624
+msgid "Loading...."
+msgstr ""
+
+#: ../inc/redux-config.php:44 ../inc/redux-config.php:45
+msgid "Sharai Khana Theme Options"
+msgstr ""
+
+#: ../inc/redux-config.php:145
+msgid "General"
+msgstr ""
+
+#: ../inc/redux-config.php:149
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/redux-config.php:150
+msgid "Use this field to upload your custom favicon."
+msgstr ""
+
+#: ../inc/redux-config.php:157
+msgid "Disable Preloader?"
+msgstr ""
+
+#: ../inc/redux-config.php:158
+msgid "By disabling this you will switch the pre load icon off."
+msgstr ""
+
+#: ../inc/redux-config.php:161 ../inc/redux-config.php:193
+#: ../inc/redux-config.php:704 ../inc/theme-custom-meta-box.php:49
+#: ../inc/theme-custom-meta-box.php:83 ../inc/theme-custom-meta-box.php:101
+#: ../inc/theme-custom-meta-box.php:109
+msgid "Yes"
+msgstr ""
+
+#: ../inc/redux-config.php:162 ../inc/redux-config.php:194
+#: ../inc/redux-config.php:705 ../inc/theme-custom-meta-box.php:50
+#: ../inc/theme-custom-meta-box.php:82 ../inc/theme-custom-meta-box.php:100
+#: ../inc/theme-custom-meta-box.php:110
+msgid "No"
+msgstr ""
+
+#: ../inc/redux-config.php:167
+msgid "Pre Loading Icon"
+msgstr ""
+
+#: ../inc/redux-config.php:168
+msgid "Use this field to upload your custom pre loading icon."
+msgstr ""
+
+#: ../inc/redux-config.php:179
+msgid "Preloader Background"
+msgstr ""
+
+#: ../inc/redux-config.php:180
+msgid "Pick a color for the preloader background."
+msgstr ""
+
+#: ../inc/redux-config.php:190
+msgid "Disable Back To Top Button?"
+msgstr ""
+
+#: ../inc/redux-config.php:191
+msgid "Select Yes to disable back to top button."
+msgstr ""
+
+#: ../inc/redux-config.php:201
+msgid "Back To Top Button Background "
+msgstr ""
+
+#: ../inc/redux-config.php:202
+msgid "Pick a color for the Back To Top background."
+msgstr ""
+
+#: ../inc/redux-config.php:216
+msgid "Logo"
+msgstr ""
+
+#: ../inc/redux-config.php:221
+msgid "Logo Type"
+msgstr ""
+
+#: ../inc/redux-config.php:222
+msgid "Select your logo type (image/text)"
+msgstr ""
+
+#: ../inc/redux-config.php:232
+msgid "Logo Image"
+msgstr ""
+
+#: ../inc/redux-config.php:233
+msgid ""
+"Use this field to upload your custom logo for use in the theme header. "
+"(Recommended 200px x 40px)"
+msgstr ""
+
+#: ../inc/redux-config.php:245
+msgid "Logo Text"
+msgstr ""
+
+#: ../inc/redux-config.php:246
+msgid "Use this field to write the text which will appeared as a logo"
+msgstr ""
+
+#: ../inc/redux-config.php:248
+msgid "Sharai Khana"
+msgstr ""
+
+#: ../inc/redux-config.php:253
+msgid "Logo Font Property"
+msgstr ""
+
+#: ../inc/redux-config.php:254
+msgid "Specify the logo font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:278
+msgid "Margin Option For Logo"
+msgstr ""
+
+#: ../inc/redux-config.php:279
+msgid "Allow to choose the spacing (margin) for the Logo."
+msgstr ""
+
+#: ../inc/redux-config.php:295
+msgid "Padding Option For Logo"
+msgstr ""
+
+#: ../inc/redux-config.php:296
+msgid "Allow to choose the padding for the Logo."
+msgstr ""
+
+#: ../inc/redux-config.php:313
+msgid "Header Content"
+msgstr ""
+
+#: ../inc/redux-config.php:319
+msgid "Toolbar"
+msgstr ""
+
+#: ../inc/redux-config.php:323
+msgid "Display Toolbar"
+msgstr ""
+
+#: ../inc/redux-config.php:324 ../inc/redux-config.php:1395
+msgid "Turn it Off to disable the toolbar."
+msgstr ""
+
+#: ../inc/redux-config.php:327 ../inc/redux-config.php:658
+#: ../inc/redux-config.php:686 ../inc/redux-config.php:749
+#: ../inc/redux-config.php:759 ../inc/redux-config.php:1083
+#: ../inc/redux-config.php:1398 ../inc/redux-config.php:1622
+#: ../inc/redux-config.php:1876
+msgid "On"
+msgstr ""
+
+#: ../inc/redux-config.php:328 ../inc/redux-config.php:659
+#: ../inc/redux-config.php:687 ../inc/redux-config.php:750
+#: ../inc/redux-config.php:760 ../inc/redux-config.php:1084
+#: ../inc/redux-config.php:1399 ../inc/redux-config.php:1623
+#: ../inc/redux-config.php:1877
+msgid "Off"
+msgstr ""
+
+#: ../inc/redux-config.php:332 ../inc/redux-config.php:1404
+msgid "Toolbar left content"
+msgstr ""
+
+#: ../inc/redux-config.php:333 ../inc/redux-config.php:348
+#: ../inc/redux-config.php:366 ../inc/redux-config.php:1405
+#: ../inc/redux-config.php:1414
+msgid "Add your own custom text/html for toolbar left region."
+msgstr ""
+
+#: ../inc/redux-config.php:344 ../inc/redux-config.php:362
+#: ../inc/redux-config.php:374 ../inc/redux-config.php:679
+#: ../inc/redux-config.php:1410 ../inc/redux-config.php:1428
+msgid "You can add html code in here."
+msgstr ""
+
+#: ../inc/redux-config.php:347
+msgid "Toolbar right social"
+msgstr ""
+
+#: ../inc/redux-config.php:365
+msgid "Toolbar right button"
+msgstr ""
+
+#: ../inc/redux-config.php:381 ../inc/redux-config.php:1436
+msgid "Toolbar background"
+msgstr ""
+
+#: ../inc/redux-config.php:382 ../inc/redux-config.php:1437
+msgid "Toolbar background with image, color, etc."
+msgstr ""
+
+#: ../inc/redux-config.php:395 ../inc/redux-config.php:1450
+msgid "Padding option for toolbar"
+msgstr ""
+
+#: ../inc/redux-config.php:396 ../inc/redux-config.php:1451
+msgid "Allow to choose the spacing (padding) for the toolbar."
+msgstr ""
+
+#: ../inc/redux-config.php:409 ../inc/redux-config.php:1464
+msgid "Toolbar font size and line height"
+msgstr ""
+
+#: ../inc/redux-config.php:417 ../inc/redux-config.php:1472
+msgid "Specify the toolbar font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:429 ../inc/redux-config.php:1483
+msgid "Toolbar font color"
+msgstr ""
+
+#: ../inc/redux-config.php:430 ../inc/redux-config.php:1484
+msgid "Pick a font color for the toolbar (default: #FFFFFF)."
+msgstr ""
+
+#: ../inc/redux-config.php:438 ../inc/redux-config.php:1492
+msgid "Toolbar link (text link) color option"
+msgstr ""
+
+#: ../inc/redux-config.php:439 ../inc/redux-config.php:1493
+msgid "Specify the toolbar link (text link) color properties."
+msgstr ""
+
+#: ../inc/redux-config.php:454
+msgid "Navbar"
+msgstr ""
+
+#: ../inc/redux-config.php:464 ../inc/redux-config.php:1645
+msgid "Margin for navbar"
+msgstr ""
+
+#: ../inc/redux-config.php:465 ../inc/redux-config.php:1646
+msgid "Allow to choose the spacing (margin) for the navbar."
+msgstr ""
+
+#: ../inc/redux-config.php:477
+msgid "Navigation top level item font"
+msgstr ""
+
+#: ../inc/redux-config.php:478 ../inc/redux-config.php:1659
+msgid "Specify the navigation top level item font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:504 ../inc/redux-config.php:1684
+msgid "Padding for navigation top level item"
+msgstr ""
+
+#: ../inc/redux-config.php:505 ../inc/redux-config.php:1685
+msgid ""
+"Allow to choose the spacing (padding) for the navigation top level item."
+msgstr ""
+
+#: ../inc/redux-config.php:518 ../inc/redux-config.php:1698
+msgid "Navigation top level item color"
+msgstr ""
+
+#: ../inc/redux-config.php:519
+msgid "Pick a font color for the navigation top level item(default: #555555)."
+msgstr ""
+
+#: ../inc/redux-config.php:538
+msgid "Navigation top level item hover/active color"
+msgstr ""
+
+#: ../inc/redux-config.php:539 ../inc/redux-config.php:1719
+msgid ""
+"Pick a top level item hover/active color for the navigation (default: "
+"#80B435)."
+msgstr ""
+
+#: ../inc/redux-config.php:548 ../inc/redux-config.php:1752
+msgid "Navigation dropdown background"
+msgstr ""
+
+#: ../inc/redux-config.php:549 ../inc/redux-config.php:1753
+msgid "Pick a background color for the navigation dropdown (default: #FFFFFF)."
+msgstr ""
+
+#: ../inc/redux-config.php:558 ../inc/redux-config.php:1762
+msgid "Width for dropdown level item"
+msgstr ""
+
+#: ../inc/redux-config.php:559 ../inc/redux-config.php:1763
+msgid "Allow your users to choose width for dropdown level item."
+msgstr ""
+
+#: ../inc/redux-config.php:570 ../inc/redux-config.php:1774
+msgid "Navigation dropdown level item font property"
+msgstr ""
+
+#: ../inc/redux-config.php:571 ../inc/redux-config.php:1775
+msgid "Specify the navigation dropdown level item font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:597 ../inc/redux-config.php:1800
+msgid "Padding for navigation dropdown level item"
+msgstr ""
+
+#: ../inc/redux-config.php:598 ../inc/redux-config.php:1801
+msgid ""
+"Allow to choose the spacing (padding) for the navigation dropdown level item."
+msgstr ""
+
+#: ../inc/redux-config.php:611 ../inc/redux-config.php:1814
+msgid "Navigation dropdown level item color"
+msgstr ""
+
+#: ../inc/redux-config.php:612 ../inc/redux-config.php:1815
+msgid ""
+"Pick a font color for the navigation dropdown level item(default: #FFFFFF)."
+msgstr ""
+
+#: ../inc/redux-config.php:627 ../inc/redux-config.php:1830
+msgid "Navigation dropdown level item hover color"
+msgstr ""
+
+#: ../inc/redux-config.php:628 ../inc/redux-config.php:1831
+msgid ""
+"Pick a hover color for the navigation dropdown level item (default: #FFFFFF)."
+msgstr ""
+
+#: ../inc/redux-config.php:640 ../inc/redux-config.php:1841
+msgid "Navigation dropdown level item hover background"
+msgstr ""
+
+#: ../inc/redux-config.php:641 ../inc/redux-config.php:1842
+msgid ""
+"Pick a hover background color for the navigation dropdown level item "
+"(default: #000000)."
+msgstr ""
+
+#: ../inc/redux-config.php:651
+msgid "Footer Content"
+msgstr ""
+
+#: ../inc/redux-config.php:654
+msgid "Display social icon in footer?"
+msgstr ""
+
+#: ../inc/redux-config.php:655
+msgid "Turn it Off to hide social icon in the footer."
+msgstr ""
+
+#: ../inc/redux-config.php:664
+msgid "Footer social"
+msgstr ""
+
+#: ../inc/redux-config.php:665
+msgid "Add your own social icon and links in the footer."
+msgstr ""
+
+#: ../inc/redux-config.php:682
+msgid "Display copyright text?"
+msgstr ""
+
+#: ../inc/redux-config.php:683
+msgid "Turn it Off to disable copyright and powered by text."
+msgstr ""
+
+#: ../inc/redux-config.php:692
+msgid "Custom copyright"
+msgstr ""
+
+#: ../inc/redux-config.php:693
+msgid "Add custom text/html for copyright region."
+msgstr ""
+
+#: ../inc/redux-config.php:700
+msgid "Disable Credit Note"
+msgstr ""
+
+#: ../inc/redux-config.php:701
+msgid "Select Yes to turn off theme design credit note in the footer."
+msgstr ""
+
+#: ../inc/redux-config.php:711
+msgid "Display footer menu?"
+msgstr ""
+
+#: ../inc/redux-config.php:721
+msgid "Styling Options"
+msgstr ""
+
+#: ../inc/redux-config.php:727
+msgid "Header Styling"
+msgstr ""
+
+#: ../inc/redux-config.php:734
+msgid "Default header style"
+msgstr ""
+
+#: ../inc/redux-config.php:735
+msgid "Select default header style and it will use all over the site."
+msgstr ""
+
+#: ../inc/redux-config.php:745
+msgid "Display mobile menu before logo?"
+msgstr ""
+
+#: ../inc/redux-config.php:746
+msgid "Turn it ON to set mobile menu before LOGO."
+msgstr ""
+
+#: ../inc/redux-config.php:755
+msgid "Sticky header"
+msgstr ""
+
+#: ../inc/redux-config.php:756
+msgid "Turn it ON to enable sticky header."
+msgstr ""
+
+#: ../inc/redux-config.php:770
+msgid "Padding for header"
+msgstr ""
+
+#: ../inc/redux-config.php:771
+msgid "Allow to choose the spacing (padding) for the header."
+msgstr ""
+
+#: ../inc/redux-config.php:785
+msgid "Header background"
+msgstr ""
+
+#: ../inc/redux-config.php:786
+msgid "Header background with image, color, etc when header is static."
+msgstr ""
+
+#: ../inc/redux-config.php:799
+msgid "Sticky header padding (before header is fixed to top)"
+msgstr ""
+
+#: ../inc/redux-config.php:800
+msgid ""
+"Allow to choose the spacing (padding) for Header before header is fixed to "
+"the top."
+msgstr ""
+
+#: ../inc/redux-config.php:817
+msgid "Sticky header padding (after header is fixed to top)"
+msgstr ""
+
+#: ../inc/redux-config.php:818
+msgid ""
+"Allow to choose the spacing (padding) for Header after header is fixed to "
+"the top."
+msgstr ""
+
+#: ../inc/redux-config.php:832
+msgid "Header background (before header is fixed to top)"
+msgstr ""
+
+#: ../inc/redux-config.php:833
+msgid ""
+"Header background with image, color, etc before header is fixed to the top."
+msgstr ""
+
+#: ../inc/redux-config.php:843
+msgid "Header background (after header is fixed to top)"
+msgstr ""
+
+#: ../inc/redux-config.php:844
+msgid ""
+"Header background with image, color, etc after header is fixed to the top."
+msgstr ""
+
+#: ../inc/redux-config.php:854
+msgid "Header font color"
+msgstr ""
+
+#: ../inc/redux-config.php:855
+msgid "Pick a font color for the header (default: #000000)."
+msgstr ""
+
+#: ../inc/redux-config.php:863
+msgid "Header heading color"
+msgstr ""
+
+#: ../inc/redux-config.php:864
+msgid "Pick a heading color for the header (default: #000000)."
+msgstr ""
+
+#: ../inc/redux-config.php:871
+msgid "Header links color"
+msgstr ""
+
+#: ../inc/redux-config.php:872
+msgid "Specify the header link color properties."
+msgstr ""
+
+#: ../inc/redux-config.php:886
+msgid "Body Styling"
+msgstr ""
+
+#: ../inc/redux-config.php:893
+msgid "Body background"
+msgstr ""
+
+#: ../inc/redux-config.php:894
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../inc/redux-config.php:902
+msgid "Body font"
+msgstr ""
+
+#: ../inc/redux-config.php:910
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:925
+msgid "Links color"
+msgstr ""
+
+#: ../inc/redux-config.php:926
+msgid "Specify the body link color properties."
+msgstr ""
+
+#: ../inc/redux-config.php:938
+msgid "Heading Font"
+msgstr ""
+
+#: ../inc/redux-config.php:949
+msgid "Specify the heading (h1, h2, h3, h4, h5, h6) font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:962
+msgid "H1 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:970
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:980
+msgid "H2 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:988
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:998
+msgid "H3 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:1006
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1016
+msgid "H4 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:1024
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1034
+msgid "H5 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:1042
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1052
+msgid "H6 Font Size and Line Height"
+msgstr ""
+
+#: ../inc/redux-config.php:1060
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1074
+msgid "Breadcrumb Styling"
+msgstr ""
+
+#: ../inc/redux-config.php:1079
+msgid "Customize Breadcrumb?"
+msgstr ""
+
+#: ../inc/redux-config.php:1080
+msgid "Turn it On to set custom image for the breadcrumb."
+msgstr ""
+
+#: ../inc/redux-config.php:1092
+msgid "Breadcrumb background "
+msgstr ""
+
+#: ../inc/redux-config.php:1093
+msgid "Set custom background for page/post/custom post type."
+msgstr ""
+
+#: ../inc/redux-config.php:1107
+msgid "Background opacity"
+msgstr ""
+
+#: ../inc/redux-config.php:1108
+msgid "Set custom opacity for the breadcrumb background overlay."
+msgstr ""
+
+#: ../inc/redux-config.php:1109
+msgid ""
+"If you want to use solid color as breadcrumb background, select opacity "
+"value 1"
+msgstr ""
+
+#: ../inc/redux-config.php:1133
+msgid "Blog Post Styling"
+msgstr ""
+
+#: ../inc/redux-config.php:1140
+msgid "Post background"
+msgstr ""
+
+#: ../inc/redux-config.php:1141
+msgid "Set color for post, custom post type content background."
+msgstr ""
+
+#: ../inc/redux-config.php:1151
+msgid "Sticky post background"
+msgstr ""
+
+#: ../inc/redux-config.php:1152
+msgid "Set color for sticky post content background."
+msgstr ""
+
+#: ../inc/redux-config.php:1163
+msgid "Meta Icon color"
+msgstr ""
+
+#: ../inc/redux-config.php:1164
+msgid "Color will apply blog meta icons and widget icons."
+msgstr ""
+
+#: ../inc/redux-config.php:1174
+msgid "Sidebar Styling"
+msgstr ""
+
+#: ../inc/redux-config.php:1180
+msgid "Search button background"
+msgstr ""
+
+#: ../inc/redux-config.php:1181
+msgid "Set color for the widget search button."
+msgstr ""
+
+#: ../inc/redux-config.php:1194
+msgid "Sidebar title border"
+msgstr ""
+
+#: ../inc/redux-config.php:1195
+msgid "Set color for the widget title border."
+msgstr ""
+
+#: ../inc/redux-config.php:1208
+msgid "Sidebar Background"
+msgstr ""
+
+#: ../inc/redux-config.php:1209
+msgid "Pick a color for the sidebar background (default: #f9fafb)."
+msgstr ""
+
+#: ../inc/redux-config.php:1218
+msgid "Sidebar Widget Title Font Setting"
+msgstr ""
+
+#: ../inc/redux-config.php:1225
+msgid "Specify Sidebar Widget Title font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1239
+msgid "Footer Widget Box"
+msgstr ""
+
+#: ../inc/redux-config.php:1245
+msgid "Container background"
+msgstr ""
+
+#: ../inc/redux-config.php:1246
+msgid "Bottom background with image, color, etc."
+msgstr ""
+
+#: ../inc/redux-config.php:1271
+msgid "Bottom background overlay"
+msgstr ""
+
+#: ../inc/redux-config.php:1272
+msgid "Pick a color for the bottom background image overlay."
+msgstr ""
+
+#: ../inc/redux-config.php:1287
+msgid "Container padding"
+msgstr ""
+
+#: ../inc/redux-config.php:1288
+msgid "Set custom padding for the footer widget box."
+msgstr ""
+
+#: ../inc/redux-config.php:1301
+msgid "Widget text color"
+msgstr ""
+
+#: ../inc/redux-config.php:1302
+msgid "Pick a font color for the bottom."
+msgstr ""
+
+#: ../inc/redux-config.php:1311
+msgid "Widget icon color"
+msgstr ""
+
+#: ../inc/redux-config.php:1312
+msgid "Pick a font color for the bottom (default: #F25764)."
+msgstr ""
+
+#: ../inc/redux-config.php:1320
+msgid "Footer links color"
+msgstr ""
+
+#: ../inc/redux-config.php:1321
+msgid "Specify the bottom link color properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1337
+msgid "Widget Heading text"
+msgstr ""
+
+#: ../inc/redux-config.php:1338
+msgid "Pick a heading color for the bottom."
+msgstr ""
+
+#: ../inc/redux-config.php:1345
+msgid "Widget title font"
+msgstr ""
+
+#: ../inc/redux-config.php:1346
+msgid "Specify Bottom Widget Title font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1365
+msgid "Copyright container background"
+msgstr ""
+
+#: ../inc/redux-config.php:1377
+msgid "Customize Headers"
+msgstr ""
+
+#: ../inc/redux-config.php:1386
+msgid "Header 01"
+msgstr ""
+
+#: ../inc/redux-config.php:1387
+msgid ""
+"Customize Left Aligned Logo & Menu Header Background. ( Template Reference - "
+"Homepage Header 1 )"
+msgstr ""
+
+#: ../inc/redux-config.php:1394
+msgid "Display toolbar?"
+msgstr ""
+
+#: ../inc/redux-config.php:1413
+msgid "Toolbar right content"
+msgstr ""
+
+#: ../inc/redux-config.php:1510
+msgid "Upload custom logo for header 01 page?"
+msgstr ""
+
+#: ../inc/redux-config.php:1518
+msgid "Upload logo"
+msgstr ""
+
+#: ../inc/redux-config.php:1519
+msgid ""
+"Use this field to upload your custom logo for use in the theme landing/one "
+"page. (Recommended 200px x 40px)"
+msgstr ""
+
+#: ../inc/redux-config.php:1530
+msgid "Header middle content"
+msgstr ""
+
+#: ../inc/redux-config.php:1531
+msgid ""
+"Add your own custom text/html for header-middle (middle part of the header) "
+"region."
+msgstr ""
+
+#: ../inc/redux-config.php:1586
+msgid "Header middle content icon color"
+msgstr ""
+
+#: ../inc/redux-config.php:1587
+msgid "Pick a icon color for middle content."
+msgstr ""
+
+#: ../inc/redux-config.php:1596
+msgid "Header middle content heading color"
+msgstr ""
+
+#: ../inc/redux-config.php:1597
+msgid "Pick a heading color for middle content."
+msgstr ""
+
+#: ../inc/redux-config.php:1606
+msgid "Header middle content text color"
+msgstr ""
+
+#: ../inc/redux-config.php:1607
+msgid "Pick a text color below the heading for middle content."
+msgstr ""
+
+#: ../inc/redux-config.php:1618
+msgid "Enable Sticky Header?"
+msgstr ""
+
+#: ../inc/redux-config.php:1619
+msgid "Turn it On to enable sticky header."
+msgstr ""
+
+#: ../inc/redux-config.php:1632
+msgid "Navigation container background"
+msgstr ""
+
+#: ../inc/redux-config.php:1633
+msgid ""
+"Pick a background color for the navigation container (default: #2E385C)."
+msgstr ""
+
+#: ../inc/redux-config.php:1658
+msgid "Navigation top level item font property"
+msgstr ""
+
+#: ../inc/redux-config.php:1699
+msgid "Pick a font color for the navigation top level item(default: #000000)."
+msgstr ""
+
+#: ../inc/redux-config.php:1718
+msgid "Navigation top level item hover/active Color"
+msgstr ""
+
+#: ../inc/redux-config.php:1740
+msgid "Navigation top level item hover/active background"
+msgstr ""
+
+#: ../inc/redux-config.php:1741
+msgid ""
+"Pick a top level item hover/active color for the navigation (default: "
+"#1A1A1A)."
+msgstr ""
+
+#: ../inc/redux-config.php:1848
+msgid "Navbar right content"
+msgstr ""
+
+#: ../inc/redux-config.php:1849
+msgid ""
+"Add your own custom text/html for navbar-right (right part of the navbar) "
+"region."
+msgstr ""
+
+#: ../inc/redux-config.php:1863
+msgid "WPBakery Elements"
+msgstr ""
+
+#: ../inc/redux-config.php:1868
+msgid "Section Settings"
+msgstr ""
+
+#: ../inc/redux-config.php:1872
+msgid "Customize section padding?"
+msgstr ""
+
+#: ../inc/redux-config.php:1873
+msgid "Select Enable to set custom padding for sections."
+msgstr ""
+
+#: ../inc/redux-config.php:1888
+msgid "Set section padding (Large Screen)"
+msgstr ""
+
+#: ../inc/redux-config.php:1906
+msgid "Set Section Padding (Tablet - 768X1024)"
+msgstr ""
+
+#: ../inc/redux-config.php:1924
+msgid "Set Section Padding (Mobile - 478X736)"
+msgstr ""
+
+#: ../inc/redux-config.php:1941
+msgid "Section Headline"
+msgstr ""
+
+#: ../inc/redux-config.php:1956
+msgid "Heading font"
+msgstr ""
+
+#: ../inc/redux-config.php:1968
+msgid "Specify the heading font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:1986
+msgid "Headline title color"
+msgstr ""
+
+#: ../inc/redux-config.php:1995
+msgid "Sub heading font"
+msgstr ""
+
+#: ../inc/redux-config.php:2007
+msgid "Specify the sub heading font properties."
+msgstr ""
+
+#: ../inc/redux-config.php:2025
+msgid "Headline sub title color"
+msgstr ""
+
+#: ../inc/redux-config.php:2035
+msgid "Headline separator color"
+msgstr ""
+
+#: ../inc/redux-config.php:2044
+msgid "Select vertical separator size"
+msgstr ""
+
+#: ../inc/redux-config.php:2057
+msgid "Select horizontal separator size"
+msgstr ""
+
+#: ../inc/redux-config.php:2076
+msgid "Button"
+msgstr ""
+
+#: ../inc/redux-config.php:2090
+msgid "Button background"
+msgstr ""
+
+#: ../inc/redux-config.php:2091
+msgid "Pick a title color for the theme (default: #F25764)."
+msgstr ""
+
+#: ../inc/redux-config.php:2103
+msgid "Button text color"
+msgstr ""
+
+#: ../inc/redux-config.php:2104 ../inc/redux-config.php:2127
+msgid "Pick a title color for the theme (default: #FFFFFF)."
+msgstr ""
+
+#: ../inc/redux-config.php:2113
+msgid "Button hover background"
+msgstr ""
+
+#: ../inc/redux-config.php:2114
+msgid "Pick a title color for the theme (default: #254559)."
+msgstr ""
+
+#: ../inc/redux-config.php:2126
+msgid "Button text hover color"
+msgstr ""
+
+#: ../inc/redux-config.php:2137
+msgid "Border radius"
+msgstr ""
+
+#: ../inc/redux-config.php:2138
+msgid "Set button border radius."
+msgstr ""
+
+#: ../inc/redux-config.php:2159
+msgid "Carousel"
+msgstr ""
+
+#: ../inc/redux-config.php:2175
+msgid "Carousel arrow color"
+msgstr ""
+
+#: ../inc/redux-config.php:2185
+msgid "Carousel dot color"
+msgstr ""
+
+#: ../inc/redux-config.php:2199
+msgid "Global Color"
+msgstr ""
+
+#: ../inc/redux-config.php:2212
+msgid "Primary color"
+msgstr ""
+
+#: ../inc/redux-config.php:2213
+msgid "Pick a primary color for the theme."
+msgstr ""
+
+#: ../inc/redux-config.php:2225
+msgid "Information!"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:12
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:18
+msgid "Mailchimp For Wp"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:24
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:30
+msgid "Woocommerce"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:36
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:42
+msgid "WordPress Importer"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:48
+msgid "Redux Framework"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:54
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../inc/required-plugin-tgm.php:62
+msgid "Sharai Khana Theme WPBakery Page Builder Addons"
+msgstr ""
+
+#: ../inc/template-tags.php:26
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:30
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:55
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:58
+msgid "Previous Post"
+msgstr ""
+
+#: ../inc/template-tags.php:59
+msgid "Next Post"
+msgstr ""
+
+#: ../inc/template-tags.php:107 ../inc/template-tags.php:130
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:132
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:26
+msgid "Post Layout Settings"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:27
+msgid "Page Layout Settings"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:47
+msgid "Display Page Header?"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:79
+msgid "WPBakery Page Builder Page?"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:87
+msgid "Header Tool Bar Status"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:90 ../inc/theme-custom-meta-box.php:129
+#: ../inc/theme-custom-meta-box.php:138 ../inc/theme-custom-meta-box.php:147
+msgid "Show"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:91 ../inc/theme-custom-meta-box.php:130
+#: ../inc/theme-custom-meta-box.php:139 ../inc/theme-custom-meta-box.php:148
+msgid "Hide"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:96
+msgid "Enable One Page Menu?"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:105
+msgid "Display Page Footer?"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:116
+msgid "Post Sidebar"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:120
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:121
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:125
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:134
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/theme-custom-meta-box.php:143
+msgid "Post Meta"
+msgstr ""
+
+#: ../single.php:46
+msgid "Article by"
+msgstr ""
+
+#: ../woocommerce/product-searchform.php:26
+msgid "Search for:"
+msgstr ""
+
+#: ../woocommerce/product-searchform.php:28
+msgid "Search products&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""

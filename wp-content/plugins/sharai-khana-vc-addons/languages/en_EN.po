@@ -1,0 +1,2442 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharai Khana Vc Addon\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2023-01-04 22:28+0200\n"
+"PO-Revision-Date: 2023-01-04 22:28+0200\n"
+"Last-Translator: FULL NAME <email@example.com>\n"
+"Language-Team: BlueWindLab <hkhan.cse@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/theme_vc_helpers.php:40 includes/theme_vc_helpers.php:52
+#: includes/theme_vc_helpers.php:69 includes/theme_vc_helpers.php:81
+#: includes/theme_vc_helpers.php:93 includes/theme_vc_helpers.php:107
+#: vc-addons/custom_elements/custom_elements.php:18
+#: vc-addons/heading/heading.php:136 vc-addons/pricetable/pricetable.php:159
+#: vc-addons/process/process.php:15 vc-addons/service/service.php:17
+#: vc-addons/testimonial/testimonial.php:114
+msgid "Select"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:41
+msgid "Left"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:42 vc-addons/video/video.php:101
+msgid "Center"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:43
+msgid "Right"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:70 vc-addons/banner/banner.php:157
+#: vc-addons/banner/banner.php:267 vc-addons/blog_post/blog_post.php:72
+#: vc-addons/button/button.php:63 vc-addons/counter/counter.php:96
+#: vc-addons/cta/cta.php:104 vc-addons/gallery/gallery.php:72
+#: vc-addons/heading/heading.php:110 vc-addons/highlights/highlights.php:63
+#: vc-addons/highlights/highlights.php:131 vc-addons/logos/logos.php:62
+#: vc-addons/logos/logos.php:73 vc-addons/pricetable/pricetable.php:61
+#: vc-addons/pricetable/pricetable.php:107 vc-addons/process/process.php:71
+#: vc-addons/process/process.php:96 vc-addons/service/service.php:63
+#: vc-addons/service/service.php:84 vc-addons/service/service.php:95
+#: vc-addons/service/service.php:201 vc-addons/slider/slider.php:56
+#: vc-addons/slider/slider.php:66 vc-addons/slider/slider.php:76
+#: vc-addons/slider/slider.php:219 vc-addons/slider/slider.php:307
+#: vc-addons/slider/slider.php:416 vc-addons/team/team.php:55
+#: vc-addons/team/team.php:65 vc-addons/team/team.php:76
+#: vc-addons/team/team.php:260 vc-addons/testimonial/testimonial.php:80
+#: vc-addons/testimonial/testimonial.php:91
+msgid "Yes"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:71 vc-addons/button/button.php:64
+#: vc-addons/cta/cta.php:105 vc-addons/highlights/highlights.php:130
+#: vc-addons/pricetable/pricetable.php:106 vc-addons/process/process.php:95
+#: vc-addons/team/team.php:259
+msgid "No"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:82
+msgid "Ascending"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:83
+msgid "Descending"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:94
+msgid "ID"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:95
+msgid "TITLE"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:96
+msgid "Date"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:97
+msgid "Random"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:108 vc-addons/counter/counter.php:11
+msgid "Layout 01"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:109 vc-addons/counter/counter.php:12
+msgid "Layout 02"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:203
+msgid " (Default)"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:260 includes/theme_vc_helpers.php:274
+msgid "Seconds"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:288
+msgid "Milliseconds "
+msgstr ""
+
+#: includes/theme_vc_helpers.php:441
+msgid "Per Year"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:445
+msgid "Per Day"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:449
+msgid "Per Hour"
+msgstr ""
+
+#: includes/theme_vc_helpers.php:453
+msgid "Per Month"
+msgstr ""
+
+#: vc-addons/banner/banner.php:11 vc-addons/cta/cta.php:10
+msgid "Layout 01 ( Single Column )"
+msgstr ""
+
+#: vc-addons/banner/banner.php:15 vc-addons/button/button.php:10
+#: vc-addons/cta/cta.php:91 vc-addons/slider/slider.php:15
+msgid "Default Button"
+msgstr ""
+
+#: vc-addons/banner/banner.php:16 vc-addons/button/button.php:11
+#: vc-addons/cta/cta.php:92 vc-addons/slider/slider.php:16
+msgid "Custom Button"
+msgstr ""
+
+#: vc-addons/banner/banner.php:20
+msgid "Static Banner"
+msgstr ""
+
+#: vc-addons/banner/banner.php:21
+msgid "Home Page Static Banner."
+msgstr ""
+
+#: vc-addons/banner/banner.php:32
+msgid "Banner Text"
+msgstr ""
+
+#: vc-addons/banner/banner.php:43
+msgid "Alignment"
+msgstr ""
+
+#: vc-addons/banner/banner.php:53 vc-addons/blog_post/blog_post.php:187
+#: vc-addons/button/button.php:151 vc-addons/contact_info/contact_info.php:119
+#: vc-addons/counter/counter.php:117 vc-addons/cta/cta.php:58
+#: vc-addons/highlights/highlights.php:117
+#: vc-addons/highlights/highlights.php:397
+#: vc-addons/highlights/highlights.php:601 vc-addons/logos/logos.php:84
+#: vc-addons/pricetable/pricetable.php:69
+#: vc-addons/pricetable/pricetable.php:283 vc-addons/process/process.php:82
+#: vc-addons/process/process.php:241 vc-addons/service/service.php:106
+#: vc-addons/service/service.php:335 vc-addons/service/service.php:424
+#: vc-addons/social_link/social_link.php:67 vc-addons/team/team.php:168
+#: vc-addons/team/team.php:237 vc-addons/testimonial/testimonial.php:102
+#: vc-addons/video/video.php:74
+msgid "Container Extra Class"
+msgstr ""
+
+#: vc-addons/banner/banner.php:56
+msgid "Add additional class to container."
+msgstr ""
+
+#: vc-addons/banner/banner.php:63 vc-addons/slider/slider.php:227
+msgid "Background Type"
+msgstr ""
+
+#: vc-addons/banner/banner.php:75
+msgid "Background Image"
+msgstr ""
+
+#: vc-addons/banner/banner.php:85 vc-addons/slider/slider.php:250
+msgid "Image Overlay Color"
+msgstr ""
+
+#: vc-addons/banner/banner.php:88 vc-addons/banner/banner.php:121
+#: vc-addons/slider/slider.php:253
+msgid ""
+"Note: Please keep alpha to 100% and set ovarlay opacity in following drop "
+"down."
+msgstr ""
+
+#: vc-addons/banner/banner.php:96 vc-addons/slider/slider.php:261
+msgid "Image Overlay Opacity"
+msgstr ""
+
+#: vc-addons/banner/banner.php:107
+msgid "Enable Gradient Color?"
+msgstr ""
+
+#: vc-addons/banner/banner.php:118
+msgid "Overlay Color 02"
+msgstr ""
+
+#: vc-addons/banner/banner.php:129
+msgid "Overlay Opacity 02"
+msgstr ""
+
+#: vc-addons/banner/banner.php:141 vc-addons/slider/slider.php:272
+msgid "Solid Background Color"
+msgstr ""
+
+#: vc-addons/banner/banner.php:155 vc-addons/slider/slider.php:305
+msgid "Enable Button#1"
+msgstr ""
+
+#: vc-addons/banner/banner.php:165 vc-addons/slider/slider.php:314
+msgid "Button#1 Text"
+msgstr ""
+
+#: vc-addons/banner/banner.php:175 vc-addons/slider/slider.php:324
+msgid "Button#1 URL"
+msgstr ""
+
+#: vc-addons/banner/banner.php:185
+msgid "Button #1 Extra Class"
+msgstr ""
+
+#: vc-addons/banner/banner.php:188
+msgid "Add additional class of button#1."
+msgstr ""
+
+#: vc-addons/banner/banner.php:196 vc-addons/slider/slider.php:345
+msgid "Button#1 Theme"
+msgstr ""
+
+#: vc-addons/banner/banner.php:199 vc-addons/banner/banner.php:310
+#: vc-addons/slider/slider.php:87 vc-addons/slider/slider.php:348
+#: vc-addons/slider/slider.php:458
+msgid "Select custom to design your own button style."
+msgstr ""
+
+#: vc-addons/banner/banner.php:207 vc-addons/banner/banner.php:318
+#: vc-addons/button/button.php:73 vc-addons/cta/cta.php:115
+#: vc-addons/slider/slider.php:356 vc-addons/slider/slider.php:466
+msgid "Button Border Radius"
+msgstr ""
+
+#: vc-addons/banner/banner.php:210 vc-addons/banner/banner.php:321
+#: vc-addons/button/button.php:76 vc-addons/cta/cta.php:118
+#: vc-addons/slider/slider.php:359 vc-addons/slider/slider.php:469
+msgid "Set button border radius."
+msgstr ""
+
+#: vc-addons/banner/banner.php:218 vc-addons/banner/banner.php:329
+#: vc-addons/button/button.php:84 vc-addons/cta/cta.php:126
+#: vc-addons/slider/slider.php:367 vc-addons/slider/slider.php:477
+msgid "Button Background"
+msgstr ""
+
+#: vc-addons/banner/banner.php:221 vc-addons/banner/banner.php:332
+#: vc-addons/button/button.php:87 vc-addons/cta/cta.php:129
+#: vc-addons/slider/slider.php:370 vc-addons/slider/slider.php:480
+msgid "Set button background."
+msgstr ""
+
+#: vc-addons/banner/banner.php:229 vc-addons/banner/banner.php:340
+#: vc-addons/button/button.php:95 vc-addons/cta/cta.php:137
+#: vc-addons/slider/slider.php:378 vc-addons/slider/slider.php:488
+msgid "Button Text Color"
+msgstr ""
+
+#: vc-addons/banner/banner.php:232 vc-addons/banner/banner.php:343
+#: vc-addons/button/button.php:98 vc-addons/cta/cta.php:140
+#: vc-addons/slider/slider.php:381 vc-addons/slider/slider.php:491
+msgid "Set button text color."
+msgstr ""
+
+#: vc-addons/banner/banner.php:241 vc-addons/banner/banner.php:352
+#: vc-addons/button/button.php:118 vc-addons/cta/cta.php:160
+#: vc-addons/slider/slider.php:390 vc-addons/slider/slider.php:500
+msgid "Button Hover Background"
+msgstr ""
+
+#: vc-addons/banner/banner.php:244 vc-addons/banner/banner.php:355
+#: vc-addons/button/button.php:121 vc-addons/cta/cta.php:163
+#: vc-addons/slider/slider.php:393 vc-addons/slider/slider.php:503
+msgid "Set button hover background."
+msgstr ""
+
+#: vc-addons/banner/banner.php:252 vc-addons/banner/banner.php:363
+#: vc-addons/button/button.php:129 vc-addons/cta/cta.php:171
+#: vc-addons/slider/slider.php:401 vc-addons/slider/slider.php:511
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: vc-addons/banner/banner.php:255 vc-addons/banner/banner.php:366
+#: vc-addons/button/button.php:132 vc-addons/cta/cta.php:174
+#: vc-addons/slider/slider.php:404 vc-addons/slider/slider.php:514
+msgid "Set button hover text color."
+msgstr ""
+
+#: vc-addons/banner/banner.php:265 vc-addons/slider/slider.php:414
+msgid "Enable Button#2"
+msgstr ""
+
+#: vc-addons/banner/banner.php:275 vc-addons/slider/slider.php:423
+msgid "Button#2 Text"
+msgstr ""
+
+#: vc-addons/banner/banner.php:286 vc-addons/slider/slider.php:433
+msgid "Button#2 URL"
+msgstr ""
+
+#: vc-addons/banner/banner.php:296
+msgid "Button #2 Extra Class"
+msgstr ""
+
+#: vc-addons/banner/banner.php:299
+msgid "Add additional class of button#2."
+msgstr ""
+
+#: vc-addons/banner/banner.php:307 vc-addons/slider/slider.php:455
+msgid "Button#2 Theme"
+msgstr ""
+
+#: vc-addons/banner/banner.php:373 vc-addons/blog_post/blog_post.php:229
+#: vc-addons/button/button.php:160 vc-addons/counter/counter.php:181
+#: vc-addons/heading/heading.php:211 vc-addons/highlights/highlights.php:229
+#: vc-addons/highlights/highlights.php:700 vc-addons/logos/logos.php:117
+#: vc-addons/pricetable/pricetable.php:78
+#: vc-addons/pricetable/pricetable.php:440 vc-addons/service/service.php:139
+#: vc-addons/service/service.php:458 vc-addons/team/team.php:177
+#: vc-addons/team/team.php:297 vc-addons/video/video.php:135
+msgid "Animation Style"
+msgstr ""
+
+#: vc-addons/banner/banner.php:375 vc-addons/blog_post/blog_post.php:231
+#: vc-addons/button/button.php:162 vc-addons/counter/counter.php:183
+#: vc-addons/heading/heading.php:213 vc-addons/highlights/highlights.php:231
+#: vc-addons/highlights/highlights.php:702 vc-addons/logos/logos.php:119
+#: vc-addons/pricetable/pricetable.php:80
+#: vc-addons/pricetable/pricetable.php:442 vc-addons/service/service.php:460
+#: vc-addons/slider/slider.php:179 vc-addons/slider/slider.php:189
+#: vc-addons/team/team.php:179 vc-addons/team/team.php:299
+#: vc-addons/video/video.php:137
+msgid "Choose your animation style"
+msgstr ""
+
+#: vc-addons/banner/shortcodes/banner_shortcode.php:21
+#: vc-addons/banner/shortcodes/banner_shortcode.php:52
+#: vc-addons/cta/shortcodes/cta_shortcode.php:20
+#: vc-addons/slider/shortcodes/slider_shortcode.php:123
+msgid "JOIN WITH US"
+msgstr ""
+
+#: vc-addons/banner/shortcodes/banner_shortcode.php:37
+#: vc-addons/slider/shortcodes/slider_shortcode.php:107
+msgid "BOOK APPOINTMENT"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:48
+msgid "Blog Posts"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:49
+msgid "Place Blog Posts In Page."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:59 vc-addons/cta/cta.php:27
+#: vc-addons/heading/heading.php:35 vc-addons/highlights/highlights.php:502
+#: vc-addons/service/service.php:42 vc-addons/service/service.php:362
+#: vc-addons/slider/slider.php:35 vc-addons/video/video.php:28
+msgid "Layout"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:70 vc-addons/highlights/highlights.php:61
+#: vc-addons/service/service.php:61 vc-addons/team/team.php:53
+msgid "Enable Carousel?"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:79
+msgid "Column"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:90 vc-addons/highlights/highlights.php:107
+#: vc-addons/highlights/highlights.php:611
+#: vc-addons/pricetable/pricetable.php:293 vc-addons/slider/slider.php:283
+msgid "Content Alignment"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:94
+msgid "Set content alignment of Blog Post block."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:102
+msgid "Blog Category"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:112
+msgid "Description Length"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:121
+msgid "Post Limit"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:130
+msgid "Post Order"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:139
+msgid "Post Order By"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:151 vc-addons/highlights/highlights.php:70
+msgid "Hide Carousel Navigation"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:155 vc-addons/highlights/highlights.php:74
+msgid "You can show/hide two arrow will display beside the carousel items."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:162 vc-addons/highlights/highlights.php:81
+msgid "Hide Carousel Dots"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:166 vc-addons/highlights/highlights.php:85
+msgid "You can show/hide bottom will display below the carousel items."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:173 vc-addons/gallery/gallery.php:80
+#: vc-addons/highlights/highlights.php:92 vc-addons/logos/logos.php:49
+#: vc-addons/process/process.php:58 vc-addons/service/service.php:71
+#: vc-addons/slider/slider.php:44 vc-addons/team/team.php:84
+#: vc-addons/testimonial/testimonial.php:67
+msgid "Auto Play Time Out"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:177 vc-addons/gallery/gallery.php:84
+#: vc-addons/highlights/highlights.php:96 vc-addons/logos/logos.php:53
+#: vc-addons/process/process.php:62 vc-addons/service/service.php:75
+#: vc-addons/slider/slider.php:48 vc-addons/team/team.php:88
+#: vc-addons/testimonial/testimonial.php:71
+msgid "Select scroll speed."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:190
+msgid "Add additional class of blog post box."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:197
+#: vc-addons/highlights/highlights.php:127 vc-addons/process/process.php:92
+msgid "Enable Box Shadow?"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:201
+msgid "You can add box shadow animation in blog post box."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:207
+#: vc-addons/contact_info/contact_info.php:84 vc-addons/counter/counter.php:104
+#: vc-addons/faq/faq.php:25 vc-addons/gallery/gallery.php:102
+#: vc-addons/highlights/highlights.php:140
+#: vc-addons/highlights/highlights.php:407
+#: vc-addons/highlights/highlights.php:621 vc-addons/logos/logos.php:94
+#: vc-addons/process/process.php:105 vc-addons/process/process.php:260
+#: vc-addons/service/service.php:116 vc-addons/service/service.php:275
+#: vc-addons/service/service.php:434 vc-addons/team/team.php:98
+#: vc-addons/testimonial/testimonial.php:125 vc-addons/video/video.php:112
+msgid "Select Theme"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:210
+#: vc-addons/contact_info/contact_info.php:87 vc-addons/counter/counter.php:107
+#: vc-addons/faq/faq.php:28 vc-addons/gallery/gallery.php:105
+#: vc-addons/heading/heading.php:17 vc-addons/highlights/highlights.php:143
+#: vc-addons/highlights/highlights.php:410
+#: vc-addons/highlights/highlights.php:624 vc-addons/logos/logos.php:97
+#: vc-addons/process/process.php:108 vc-addons/process/process.php:263
+#: vc-addons/service/service.php:119 vc-addons/service/service.php:188
+#: vc-addons/service/service.php:278 vc-addons/service/service.php:437
+#: vc-addons/team/team.php:101 vc-addons/testimonial/testimonial.php:128
+#: vc-addons/video/video.php:115
+msgid "Default"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:211
+#: vc-addons/contact_info/contact_info.php:88 vc-addons/counter/counter.php:108
+#: vc-addons/faq/faq.php:29 vc-addons/gallery/gallery.php:106
+#: vc-addons/heading/heading.php:18 vc-addons/highlights/highlights.php:144
+#: vc-addons/highlights/highlights.php:411
+#: vc-addons/highlights/highlights.php:625 vc-addons/logos/logos.php:98
+#: vc-addons/process/process.php:109 vc-addons/process/process.php:264
+#: vc-addons/service/service.php:120 vc-addons/service/service.php:189
+#: vc-addons/service/service.php:279 vc-addons/service/service.php:438
+#: vc-addons/team/team.php:102 vc-addons/testimonial/testimonial.php:129
+#: vc-addons/video/video.php:116
+msgid "Custom"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:214
+#: vc-addons/contact_info/contact_info.php:91 vc-addons/counter/counter.php:111
+#: vc-addons/faq/faq.php:32 vc-addons/gallery/gallery.php:109
+#: vc-addons/highlights/highlights.php:147 vc-addons/logos/logos.php:101
+#: vc-addons/process/process.php:112 vc-addons/team/team.php:105
+#: vc-addons/testimonial/testimonial.php:132 vc-addons/video/video.php:119
+msgid "Choose Custom to create your own theme."
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:220
+#: vc-addons/contact_info/contact_info.php:97 vc-addons/gallery/gallery.php:128
+#: vc-addons/highlights/highlights.php:186
+#: vc-addons/highlights/highlights.php:443
+#: vc-addons/highlights/highlights.php:657 vc-addons/logos/logos.php:107
+#: vc-addons/process/process.php:118 vc-addons/service/service.php:129
+#: vc-addons/service/service.php:448 vc-addons/team/team.php:124
+#: vc-addons/testimonial/testimonial.php:137 vc-addons/video/video.php:125
+msgid "Theme Color"
+msgstr ""
+
+#: vc-addons/blog_post/blog_post.php:223
+msgid "This color will apply in carousel navigation button."
+msgstr ""
+
+#: vc-addons/blog_post/shortcodes/blog_post_shortcode.php:218
+msgid "Sorry, No news found!"
+msgstr ""
+
+#: vc-addons/button/button.php:15
+msgid "Buttons"
+msgstr ""
+
+#: vc-addons/button/button.php:16
+msgid "Place Buttons In Page."
+msgstr ""
+
+#: vc-addons/button/button.php:27 vc-addons/highlights/highlights.php:363
+#: vc-addons/highlights/highlights.php:578
+#: vc-addons/pricetable/pricetable.php:249
+msgid "Button Text"
+msgstr ""
+
+#: vc-addons/button/button.php:30
+msgid "Add button text."
+msgstr ""
+
+#: vc-addons/button/button.php:38
+msgid "Button Info"
+msgstr ""
+
+#: vc-addons/button/button.php:41
+msgid "Add button info."
+msgstr ""
+
+#: vc-addons/button/button.php:50 vc-addons/heading/heading.php:148
+msgid "Theme"
+msgstr ""
+
+#: vc-addons/button/button.php:53 vc-addons/cta/cta.php:94
+msgid "Select button theme"
+msgstr ""
+
+#: vc-addons/button/button.php:60 vc-addons/cta/cta.php:101
+msgid "Display Button Border"
+msgstr ""
+
+#: vc-addons/button/button.php:66 vc-addons/cta/cta.php:107
+msgid "Set No, if you hide button border."
+msgstr ""
+
+#: vc-addons/button/button.php:106 vc-addons/cta/cta.php:148
+msgid "Button Border Color"
+msgstr ""
+
+#: vc-addons/button/button.php:109 vc-addons/cta/cta.php:151
+msgid "Set button border color."
+msgstr ""
+
+#: vc-addons/button/button.php:140 vc-addons/cta/cta.php:182
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: vc-addons/button/button.php:143 vc-addons/cta/cta.php:185
+msgid "Set button hover border color."
+msgstr ""
+
+#: vc-addons/button/button.php:154 vc-addons/cta/cta.php:61
+msgid "Add additional class of button."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:10
+msgid "Square Box"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:11
+msgid "Rounded Box"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:15
+msgid "Contact Info"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:16
+msgid "Place Contact Info In Page."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:27
+msgid "Address"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:30
+msgid "Add your address."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:38
+msgid "Phone"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:41
+msgid "Add Phone Number."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:49
+msgid "Email"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:52
+msgid "Add Email Address. (Seperate multiple email by a comma)"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:60
+msgid "Web URL"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:63
+msgid "Add Site URL. (Seperate multiple site by a comma)"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:74
+#: vc-addons/testimonial/testimonial.php:50
+msgid "Icon Style"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:78
+msgid "Select icon layout style."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:100
+msgid "This color will apply in icon background."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:108
+#: vc-addons/counter/counter.php:149
+msgid "Icon Color"
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:111
+msgid "This color will apply in icon color."
+msgstr ""
+
+#: vc-addons/contact_info/contact_info.php:122
+msgid "Add additional class for contact info layout."
+msgstr ""
+
+#: vc-addons/counter/counter.php:10 vc-addons/counter/counter.php:16
+#: vc-addons/gallery/gallery.php:11 vc-addons/logos/logos.php:10
+#: vc-addons/pricetable/pricetable.php:16 vc-addons/slider/slider.php:10
+#: vc-addons/team/team.php:10 vc-addons/team/team.php:44
+#: vc-addons/testimonial/testimonial.php:10
+msgid "SELECT"
+msgstr ""
+
+#: vc-addons/counter/counter.php:17 vc-addons/pricetable/pricetable.php:19
+msgid "4 items each row (Default)"
+msgstr ""
+
+#: vc-addons/counter/counter.php:18 vc-addons/pricetable/pricetable.php:18
+msgid "3 items each row"
+msgstr ""
+
+#: vc-addons/counter/counter.php:19 vc-addons/pricetable/pricetable.php:17
+msgid "2 items each row"
+msgstr ""
+
+#: vc-addons/counter/counter.php:25
+msgid "Counters"
+msgstr ""
+
+#: vc-addons/counter/counter.php:26
+msgid "Place Counter In Page."
+msgstr ""
+
+#: vc-addons/counter/counter.php:41
+msgid "Counter Layout"
+msgstr ""
+
+#: vc-addons/counter/counter.php:45
+msgid "Select counter layout style."
+msgstr ""
+
+#: vc-addons/counter/counter.php:49 vc-addons/gallery/gallery.php:49
+#: vc-addons/highlights/highlights.php:50
+#: vc-addons/pricetable/pricetable.php:49 vc-addons/process/process.php:50
+#: vc-addons/service/service.php:51
+msgid "Choose Column"
+msgstr ""
+
+#: vc-addons/counter/counter.php:53 vc-addons/pricetable/pricetable.php:53
+msgid "Number of items display each row."
+msgstr ""
+
+#: vc-addons/counter/counter.php:57 vc-addons/process/process.php:250
+#: vc-addons/service/service.php:265 vc-addons/team/team.php:246
+#: vc-addons/testimonial/testimonial.php:111
+msgid "Select Content Alignment"
+msgstr ""
+
+#: vc-addons/counter/counter.php:61
+msgid "Set content alignment of each counter block."
+msgstr ""
+
+#: vc-addons/counter/counter.php:66
+msgid "Disable Count Up?"
+msgstr ""
+
+#: vc-addons/counter/counter.php:70
+msgid "Select Yes to disable count up animation."
+msgstr ""
+
+#: vc-addons/counter/counter.php:75
+msgid "Count Time"
+msgstr ""
+
+#: vc-addons/counter/counter.php:79
+msgid "The total duration of the count up animation."
+msgstr ""
+
+#: vc-addons/counter/counter.php:84
+msgid "Count Delay"
+msgstr ""
+
+#: vc-addons/counter/counter.php:88
+msgid "The delay in milliseconds per number count up."
+msgstr ""
+
+#: vc-addons/counter/counter.php:94
+msgid "Hide Icon?"
+msgstr ""
+
+#: vc-addons/counter/counter.php:120
+msgid "Add additional class for counter layout."
+msgstr ""
+
+#: vc-addons/counter/counter.php:127
+msgid "Counter Color"
+msgstr ""
+
+#: vc-addons/counter/counter.php:130
+msgid "Set counter & post fix text color."
+msgstr ""
+
+#: vc-addons/counter/counter.php:138
+msgid "Text Color"
+msgstr ""
+
+#: vc-addons/counter/counter.php:141
+msgid "Set text color."
+msgstr ""
+
+#: vc-addons/counter/counter.php:152
+msgid "Set icon color."
+msgstr ""
+
+#: vc-addons/counter/counter.php:160
+msgid "Border & Seperator Color"
+msgstr ""
+
+#: vc-addons/counter/counter.php:163
+msgid "Set border & seperator color."
+msgstr ""
+
+#: vc-addons/counter/counter.php:171
+msgid "Counter Box Background"
+msgstr ""
+
+#: vc-addons/counter/counter.php:174
+msgid "Set counter box background. (Only for Layout 01)"
+msgstr ""
+
+#: vc-addons/counter/counter.php:194
+msgid "Counter Item"
+msgstr ""
+
+#: vc-addons/counter/counter.php:207
+msgid "Counter Value"
+msgstr ""
+
+#: vc-addons/counter/counter.php:210
+msgid "Add any number. Please do not add string."
+msgstr ""
+
+#: vc-addons/counter/counter.php:218
+msgid "Counter Text"
+msgstr ""
+
+#: vc-addons/counter/counter.php:228
+msgid "Counter Post Fix"
+msgstr ""
+
+#: vc-addons/counter/counter.php:231
+msgid "Add any symbol after the counter value. Example: %, + "
+msgstr ""
+
+#: vc-addons/counter/counter.php:237 vc-addons/gallery/gallery.php:114
+#: vc-addons/highlights/highlights.php:287
+#: vc-addons/highlights/highlights.php:544
+#: vc-addons/pricetable/pricetable.php:222 vc-addons/process/process.php:183
+msgid "Icon"
+msgstr ""
+
+#: vc-addons/counter/counter.php:245 vc-addons/gallery/gallery.php:122
+#: vc-addons/highlights/highlights.php:295
+#: vc-addons/highlights/highlights.php:552
+#: vc-addons/pricetable/pricetable.php:230 vc-addons/process/process.php:191
+#: vc-addons/service/service.php:228 vc-addons/service/service.php:397
+#: vc-addons/slider/slider.php:124 vc-addons/slider/slider.php:139
+#: vc-addons/video/video.php:56
+msgid "Select icon from library."
+msgstr ""
+
+#: vc-addons/cta/cta.php:11
+msgid "Layout 02 ( Double Columns )"
+msgstr ""
+
+#: vc-addons/cta/cta.php:15
+msgid "CTA Block"
+msgstr ""
+
+#: vc-addons/cta/cta.php:16
+msgid "Display Call To Action Box In Page."
+msgstr ""
+
+#: vc-addons/cta/cta.php:30 vc-addons/video/video.php:31
+msgid "Select Layout of Call To Action Box"
+msgstr ""
+
+#: vc-addons/cta/cta.php:38
+msgid "CTA Text"
+msgstr ""
+
+#: vc-addons/cta/cta.php:48
+msgid "CTA Link"
+msgstr ""
+
+#: vc-addons/cta/cta.php:68
+msgid "CTA Content Alignment"
+msgstr ""
+
+#: vc-addons/cta/cta.php:78
+msgid "CTA Button Alignment"
+msgstr ""
+
+#: vc-addons/cta/cta.php:88
+msgid "CTA Button Theme"
+msgstr ""
+
+#: vc-addons/custom_elements/custom_elements.php:8
+msgid "Disable it if you want to get full width row."
+msgstr ""
+
+#: vc-addons/custom_elements/custom_elements.php:19
+msgid "Section Layout Class"
+msgstr ""
+
+#: vc-addons/custom_elements/custom_elements.php:20
+msgid "No Padding Layout Class"
+msgstr ""
+
+#: vc-addons/custom_elements/custom_elements.php:21
+msgid "No Bottom Padding Layout Class"
+msgstr ""
+
+#: vc-addons/custom_elements/custom_elements.php:29
+msgid "Select Custom Class For Row"
+msgstr ""
+
+#: vc-addons/faq/faq.php:11
+msgid "FAQs"
+msgstr ""
+
+#: vc-addons/faq/faq.php:12
+msgid "Place Faq In Page."
+msgstr ""
+
+#: vc-addons/faq/faq.php:39
+msgid "FAQ title color"
+msgstr ""
+
+#: vc-addons/faq/faq.php:42
+msgid "This color will apply in faq title text."
+msgstr ""
+
+#: vc-addons/faq/faq.php:50
+msgid "FAQ title background"
+msgstr ""
+
+#: vc-addons/faq/faq.php:53
+msgid "This color will apply in faq title background."
+msgstr ""
+
+#: vc-addons/faq/faq.php:62
+msgid "FAQ details color"
+msgstr ""
+
+#: vc-addons/faq/faq.php:65
+msgid "This color will apply in faq details text."
+msgstr ""
+
+#: vc-addons/faq/faq.php:73
+msgid "FAQ details background"
+msgstr ""
+
+#: vc-addons/faq/faq.php:76
+msgid "This color will apply in faq details background."
+msgstr ""
+
+#: vc-addons/faq/faq.php:86
+msgid "FAQ Item"
+msgstr ""
+
+#: vc-addons/faq/faq.php:98 vc-addons/heading/heading.php:46
+#: vc-addons/highlights/highlights.php:255
+#: vc-addons/highlights/highlights.php:512 vc-addons/process/process.php:143
+#: vc-addons/service/service.php:164 vc-addons/service/service.php:372
+msgid "Title"
+msgstr ""
+
+#: vc-addons/faq/faq.php:104 vc-addons/pricetable/pricetable.php:187
+msgid "Details"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:12
+msgid "Layout 01 (Simple)"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:13
+msgid "Layout 02 (Carousel)"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:17 vc-addons/highlights/highlights.php:17
+msgid "4 Columns (Default)"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:18 vc-addons/highlights/highlights.php:18
+msgid "3 Columns"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:19 vc-addons/highlights/highlights.php:19
+#: vc-addons/process/process.php:18 vc-addons/service/service.php:20
+msgid "2 Columns"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:20 vc-addons/highlights/highlights.php:20
+#: vc-addons/process/process.php:19 vc-addons/service/service.php:21
+msgid "1 Column"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:26
+msgid "Gallery"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:27
+msgid "Place Gallery In Page."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:40
+msgid "Choose Layout"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:44
+msgid "Select gallery layout style."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:53 vc-addons/highlights/highlights.php:54
+#: vc-addons/process/process.php:54 vc-addons/service/service.php:55
+msgid "Select number columns each row."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:60 vc-addons/logos/logos.php:41
+#: vc-addons/team/team.php:42
+msgid "Items Per Row"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:64 vc-addons/logos/logos.php:45
+#: vc-addons/team/team.php:46
+msgid "Select no of item you like to show each row."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:70 vc-addons/process/process.php:69
+msgid "Hide Carousel Navigation Button?"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:92
+msgid "Enable No Padding Gallery"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:96
+msgid "If you select yes, then there will no space between each column."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:131
+msgid "This color will apply in overlay & Icon color button."
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:140
+msgid "Gallery Item"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:150
+msgid "Choose Image"
+msgstr ""
+
+#: vc-addons/gallery/gallery.php:152
+msgid "Select gallery image."
+msgstr ""
+
+#: vc-addons/heading/heading.php:10
+msgid "Layout 01 (Default)"
+msgstr ""
+
+#: vc-addons/heading/heading.php:11
+msgid "Layout 02 (Only Heading)"
+msgstr ""
+
+#: vc-addons/heading/heading.php:12
+msgid "Inline Heading"
+msgstr ""
+
+#: vc-addons/heading/heading.php:13
+msgid "Light Heading (For Black Background)"
+msgstr ""
+
+#: vc-addons/heading/heading.php:24
+msgid "Heading Block"
+msgstr ""
+
+#: vc-addons/heading/heading.php:25
+msgid "Place Heading In Page."
+msgstr ""
+
+#: vc-addons/heading/heading.php:49
+msgid "Title will be displayed below the separator."
+msgstr ""
+
+#: vc-addons/heading/heading.php:56
+msgid "Additional Heading Title Class"
+msgstr ""
+
+#: vc-addons/heading/heading.php:59
+msgid "Example: heading-alt-style"
+msgstr ""
+
+#: vc-addons/heading/heading.php:67
+msgid "Sub Title"
+msgstr ""
+
+#: vc-addons/heading/heading.php:70
+msgid "Sub Title will be displayed above the separator."
+msgstr ""
+
+#: vc-addons/heading/heading.php:78
+msgid "Additional Heading Sub Title Class"
+msgstr ""
+
+#: vc-addons/heading/heading.php:81
+msgid "Example: subheading-alt-style"
+msgstr ""
+
+#: vc-addons/heading/heading.php:88
+msgid "Alter Heading Content Position"
+msgstr ""
+
+#: vc-addons/heading/heading.php:91
+msgid ""
+"If you select Yes, then title will be displayed followed by the Sub title."
+msgstr ""
+
+#: vc-addons/heading/heading.php:98
+msgid "Select Heading Content Alignment"
+msgstr ""
+
+#: vc-addons/heading/heading.php:102
+msgid "Set content alignment of heading block."
+msgstr ""
+
+#: vc-addons/heading/heading.php:108
+msgid "Enable Horizontal Separator?"
+msgstr ""
+
+#: vc-addons/heading/heading.php:111
+msgid "A horizontal line will be appeared between title and sub title."
+msgstr ""
+
+#: vc-addons/heading/heading.php:118
+msgid "Separator Attachment?"
+msgstr ""
+
+#: vc-addons/heading/heading.php:121
+msgid "Between Heading Title & Sub Title"
+msgstr ""
+
+#: vc-addons/heading/heading.php:122
+msgid "With Heading Title"
+msgstr ""
+
+#: vc-addons/heading/heading.php:123
+msgid "With Heading Sub Title"
+msgstr ""
+
+#: vc-addons/heading/heading.php:124
+msgid "No Separator"
+msgstr ""
+
+#: vc-addons/heading/heading.php:133
+msgid "Separator Position?"
+msgstr ""
+
+#: vc-addons/heading/heading.php:137
+msgid "After Text"
+msgstr ""
+
+#: vc-addons/heading/heading.php:138
+msgid "Before Text"
+msgstr ""
+
+#: vc-addons/heading/heading.php:158
+msgid "Separator Color"
+msgstr ""
+
+#: vc-addons/heading/heading.php:169
+msgid "Title Color"
+msgstr ""
+
+#: vc-addons/heading/heading.php:180
+msgid "Sub Title Color"
+msgstr ""
+
+#: vc-addons/heading/heading.php:191
+msgid "Border Upper Color"
+msgstr ""
+
+#: vc-addons/heading/heading.php:202
+msgid "Border Bottom Color"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:10
+msgid "Layout 01 ( Icon Box Top )"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:11
+msgid "Layout 02 ( Transparent Icon Box Top )"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:12
+msgid "Layout 03 ( Transparent Icon Box Right )"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:13
+msgid "Layout 04 ( Transparent Icon Box Left )"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:26
+msgid "Highlight Box"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:27
+msgid "Add Multiple Highlight Blocks."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:42
+msgid "Highlight Layout"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:46
+msgid "Select highlight layout style."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:120
+#: vc-addons/highlights/highlights.php:400
+#: vc-addons/highlights/highlights.php:604 vc-addons/service/service.php:338
+msgid "Add additional class of highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:134 vc-addons/process/process.php:99
+msgid "You can add box shadow animation in highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:153
+msgid "Navigation Theme Color"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:156
+msgid ""
+"This color will apply in seperator line, carousel navigation arrows and dots."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:164
+#: vc-addons/highlights/highlights.php:421
+#: vc-addons/highlights/highlights.php:635 vc-addons/process/process.php:274
+#: vc-addons/service/service.php:289
+msgid "Box Background"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:167
+#: vc-addons/highlights/highlights.php:424
+#: vc-addons/highlights/highlights.php:638
+msgid "Regular highlight box background."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:175
+#: vc-addons/highlights/highlights.php:432
+#: vc-addons/highlights/highlights.php:646 vc-addons/process/process.php:285
+#: vc-addons/service/service.php:322
+msgid "Box Hover Background"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:178
+#: vc-addons/highlights/highlights.php:435
+#: vc-addons/highlights/highlights.php:649
+msgid "On mouse hover highlight box background."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:189
+msgid ""
+"This color will apply in Icon background ( For Layout 1 ), Icon color "
+"(layout 02, layout 03), seperator and button background."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:197
+#: vc-addons/highlights/highlights.php:454
+#: vc-addons/highlights/highlights.php:668
+msgid "Theme Hover Color"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:200
+#: vc-addons/highlights/highlights.php:457
+#: vc-addons/highlights/highlights.php:671
+msgid ""
+"On mouse hover this color will apply in Icon background ( For Layout 1 ), "
+"Icon color (layout 02, layout 03), seperator and button background (mouse "
+"hover mode)."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:208
+#: vc-addons/highlights/highlights.php:465
+#: vc-addons/highlights/highlights.php:679
+msgid "Show Border?"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:212
+#: vc-addons/highlights/highlights.php:469
+#: vc-addons/highlights/highlights.php:683
+msgid "Hide border from highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:219
+#: vc-addons/highlights/highlights.php:476
+#: vc-addons/highlights/highlights.php:690
+msgid "Border Color"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:222
+#: vc-addons/highlights/highlights.php:479
+#: vc-addons/highlights/highlights.php:693
+msgid "Set border color."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:243
+msgid "Highlight Item"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:258
+msgid "Set the heading of highlights box. Example - Support Forum."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:264
+#: vc-addons/highlights/highlights.php:521 vc-addons/process/process.php:152
+msgid "Content"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:267
+msgid "Write a brief about highlight content."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:275
+#: vc-addons/highlights/highlights.php:532
+#: vc-addons/pricetable/pricetable.php:200
+msgid "Icon Type"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:278
+#: vc-addons/highlights/highlights.php:535 vc-addons/process/process.php:166
+msgid "Font Awesome Icon ( Default )"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:279
+#: vc-addons/highlights/highlights.php:536 vc-addons/process/process.php:165
+msgid "Custom Image"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:282
+#: vc-addons/highlights/highlights.php:357
+#: vc-addons/highlights/highlights.php:539
+#: vc-addons/highlights/highlights.php:572
+msgid "Display read more button in highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:301
+#: vc-addons/highlights/highlights.php:558
+msgid "Highlight Image"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:303
+#: vc-addons/highlights/highlights.php:560
+msgid "Add Highlight image"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:312
+msgid "Enable Badge?"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:316
+msgid "Display Badge Box in highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:322
+msgid "Badge Text"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:325
+msgid "Example - New, Hot, Speical etc."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:333
+msgid "Badge Theme?"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:346
+msgid "Select badge theme."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:353
+#: vc-addons/highlights/highlights.php:568
+msgid "Enable Read More Button"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:365
+#: vc-addons/highlights/highlights.php:580
+#: vc-addons/highlights/shortcodes/highlights_shortcode.php:153
+#: vc-addons/highlights/shortcodes/highlights_shortcode.php:427
+msgid "Read More"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:366
+#: vc-addons/highlights/highlights.php:581
+msgid "Set custom text for button. Default - Read more"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:374
+#: vc-addons/highlights/highlights.php:589
+msgid "Read More Link"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:377
+#: vc-addons/highlights/highlights.php:592
+msgid "You can set custom link of heading/read more button."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:384
+msgid "Additional Button Class"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:387
+msgid "Set custom class for button."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:414
+#: vc-addons/highlights/highlights.php:628
+msgid "Choose Custom to create your own highlight box."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:446
+#: vc-addons/highlights/highlights.php:660
+msgid ""
+"This color will apply in Icon background ( For Layout 1 ), Icon color "
+"(layout 02, layout 03), seperator and button background (mouse hover mode)."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:490
+msgid "Single Highlight Box"
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:491
+msgid "Add Single Highlight Block."
+msgstr ""
+
+#: vc-addons/highlights/highlights.php:506 vc-addons/service/service.php:366
+msgid "Select layout style."
+msgstr ""
+
+#: vc-addons/logos/logos.php:11
+msgid "Simple Layout"
+msgstr ""
+
+#: vc-addons/logos/logos.php:12 vc-addons/process/process.php:11
+#: vc-addons/testimonial/testimonial.php:11
+msgid "Carousel Layout"
+msgstr ""
+
+#: vc-addons/logos/logos.php:17
+msgid "Logos"
+msgstr ""
+
+#: vc-addons/logos/logos.php:18
+msgid "Place Logo In Page."
+msgstr ""
+
+#: vc-addons/logos/logos.php:33
+msgid "Logos Layout"
+msgstr ""
+
+#: vc-addons/logos/logos.php:37
+msgid "Select logo layout style."
+msgstr ""
+
+#: vc-addons/logos/logos.php:60 vc-addons/service/service.php:82
+#: vc-addons/team/team.php:63 vc-addons/testimonial/testimonial.php:78
+msgid "Hide Carousel Navigation Arrow?"
+msgstr ""
+
+#: vc-addons/logos/logos.php:71 vc-addons/service/service.php:93
+#: vc-addons/team/team.php:74 vc-addons/testimonial/testimonial.php:89
+msgid "Hide Carousel Navigation Dots?"
+msgstr ""
+
+#: vc-addons/logos/logos.php:87
+msgid "Add additional class for logo layout."
+msgstr ""
+
+#: vc-addons/logos/logos.php:110
+msgid "This color will apply in logo border and navigation button."
+msgstr ""
+
+#: vc-addons/logos/logos.php:130
+msgid "LOGO ITEM"
+msgstr ""
+
+#: vc-addons/logos/logos.php:140
+msgid "Logo Title"
+msgstr ""
+
+#: vc-addons/logos/logos.php:148
+msgid "Logo Image"
+msgstr ""
+
+#: vc-addons/logos/logos.php:157
+msgid "Logo URL:"
+msgstr ""
+
+#: vc-addons/logos/logos.php:160
+msgid "Add custom logo link."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:11
+msgid "Layout 01 (Simple Column Grid)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:12
+msgid "Layout 02 (No Column Padding Grid)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:24
+msgid "Pricetable"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:25
+msgid "Place Pricetable In Page."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:41
+msgid "Price Table Layout"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:45
+msgid "Select pricetable layout style."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:59
+msgid "Display Price Header Border?"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:72
+#: vc-addons/pricetable/pricetable.php:286
+msgid "Add additional class of pricing table box."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:91
+msgid "Pricetable Item"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:103
+msgid "Featured Plan?"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:117
+msgid "Label"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:120
+msgid "Example: Basic, Standard, Business, Premium etc."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:128
+msgid "Description"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:131
+msgid "Add a short details for  pricing column."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:138
+msgid "Currency"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:141
+msgid "Example: $"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:147
+msgid "Price"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:150
+msgid "Example: 10, 10.99 or any numeric value."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:156
+msgid "Period"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:160
+msgid "Yearly"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:161
+msgid "Monthly"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:162
+msgid "Daily"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:163
+msgid "Hourly"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:165
+msgid "Choose plan duration."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:175
+msgid "Details Type"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:178
+msgid "Lists"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:179
+msgid "Compact"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:203
+msgid "Image Icon"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:204
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:205
+msgid "No Image"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:213
+msgid "Pricetable Image"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:215
+msgid "Add pricetable image. Recommended Size: 64 X 64 px."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:239
+msgid "Enable Button"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:243
+msgid "Display CTA button in pricing table."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:251
+#: vc-addons/pricetable/shortcodes/pricetable_shortcode.php:61
+msgid "Learn More &raquo;"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:252
+msgid "Set custom text for button. Default - Purchase Now"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:260
+msgid "Button Link"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:263
+msgid "You can set custom link of read more button."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:271
+msgid "Button Extra Class"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:274
+msgid "Add additional class of pricing table button."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:296
+msgid "You can set pricing table content alignment."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:305
+msgid "Box Background (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:308 vc-addons/process/process.php:277
+msgid "Set box background."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:316
+msgid "Label Color (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:319
+msgid "Set regular pricetable type color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:327
+msgid "Currency Color (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:330
+msgid "Set regular pricetable currency color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:338
+msgid "Price Color (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:341
+msgid "Set regular pricetable price color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:349
+msgid "Period Color (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:352
+msgid "Set regular pricetable period color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:360
+msgid "Details (Regular)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:363
+msgid "Set regular pricetable details color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:373
+msgid "Box Background (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:376
+msgid "Set featured box background."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:384
+msgid "Label Color (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:387
+msgid "Set featured pricetable type color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:395
+msgid "Currency Color (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:398
+msgid "Set featured pricetable Currency color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:406
+msgid "Price Color (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:409
+msgid "Set featured pricetable Price color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:417
+msgid "Period Color (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:420
+msgid "Set featured pricetable period color."
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:428
+msgid "Details (Featured)"
+msgstr ""
+
+#: vc-addons/pricetable/pricetable.php:431
+msgid "Set featured pricetable details color."
+msgstr ""
+
+#: vc-addons/pricetable/shortcodes/pricetable_shortcode.php:87
+msgid "GET STARTED"
+msgstr ""
+
+#: vc-addons/process/process.php:10
+msgid "Grid Layout (Default)"
+msgstr ""
+
+#: vc-addons/process/process.php:16 vc-addons/service/service.php:18
+msgid "4 Columns"
+msgstr ""
+
+#: vc-addons/process/process.php:17 vc-addons/service/service.php:19
+msgid "3 Columns (Default)"
+msgstr ""
+
+#: vc-addons/process/process.php:26
+msgid "Process Block"
+msgstr ""
+
+#: vc-addons/process/process.php:27
+msgid "Add multiple process blocks."
+msgstr ""
+
+#: vc-addons/process/process.php:42
+msgid "Process Layout"
+msgstr ""
+
+#: vc-addons/process/process.php:46
+msgid "Select process layout style."
+msgstr ""
+
+#: vc-addons/process/process.php:85 vc-addons/process/process.php:244
+msgid "Add additional class for this block."
+msgstr ""
+
+#: vc-addons/process/process.php:121
+msgid "This color will apply in process navigation button."
+msgstr ""
+
+#: vc-addons/process/process.php:131
+msgid "Process Item"
+msgstr ""
+
+#: vc-addons/process/process.php:146
+msgid "Set the heading of process box. Example - REGISTRATION."
+msgstr ""
+
+#: vc-addons/process/process.php:155
+msgid "Write a brief about process content."
+msgstr ""
+
+#: vc-addons/process/process.php:162
+msgid "Choose Icon Type"
+msgstr ""
+
+#: vc-addons/process/process.php:169
+msgid "Display read more button in process box."
+msgstr ""
+
+#: vc-addons/process/process.php:174
+msgid "Process Image"
+msgstr ""
+
+#: vc-addons/process/process.php:176
+msgid "Add process image. Recommended Size: 72 X 72 px."
+msgstr ""
+
+#: vc-addons/process/process.php:198
+msgid "Display Process Count Number?"
+msgstr ""
+
+#: vc-addons/process/process.php:207
+msgid "Process Count Text"
+msgstr ""
+
+#: vc-addons/process/process.php:210
+msgid "Example - 01, 02, 03"
+msgstr ""
+
+#: vc-addons/process/process.php:219
+msgid "Add Custom Link?"
+msgstr ""
+
+#: vc-addons/process/process.php:228
+msgid "Custom Link"
+msgstr ""
+
+#: vc-addons/process/process.php:231
+msgid "You can set custom link in heading text."
+msgstr ""
+
+#: vc-addons/process/process.php:254 vc-addons/testimonial/testimonial.php:119
+msgid "Set content alignment of testimonial info block."
+msgstr ""
+
+#: vc-addons/process/process.php:267
+msgid "Choose Custom to create your own style."
+msgstr ""
+
+#: vc-addons/process/process.php:288 vc-addons/service/service.php:325
+msgid "On mouse hover service box background."
+msgstr ""
+
+#: vc-addons/process/process.php:296
+msgid "Process Icon Color"
+msgstr ""
+
+#: vc-addons/process/process.php:299
+msgid "This color will apply in process font awesome icon."
+msgstr ""
+
+#: vc-addons/process/process.php:307
+msgid "Process Count Color"
+msgstr ""
+
+#: vc-addons/process/process.php:310
+msgid "This color will apply in process count color."
+msgstr ""
+
+#: vc-addons/process/process.php:318
+msgid "Process Title Color"
+msgstr ""
+
+#: vc-addons/process/process.php:321
+msgid "This color will apply in process title."
+msgstr ""
+
+#: vc-addons/process/process.php:331
+msgid "Process Info Color"
+msgstr ""
+
+#: vc-addons/process/process.php:334
+msgid "This color will apply in process info."
+msgstr ""
+
+#: vc-addons/service/service.php:11
+msgid "Grid Style 01 (Default)"
+msgstr ""
+
+#: vc-addons/service/service.php:12
+msgid "Grid Style 02"
+msgstr ""
+
+#: vc-addons/service/service.php:13
+msgid "Grid Style 03"
+msgstr ""
+
+#: vc-addons/service/service.php:26
+msgid "Service Block"
+msgstr ""
+
+#: vc-addons/service/service.php:27
+msgid "Add Multiple Service Blocks."
+msgstr ""
+
+#: vc-addons/service/service.php:46
+msgid "Select service layout style."
+msgstr ""
+
+#: vc-addons/service/service.php:109
+msgid "Add additional class for service layout."
+msgstr ""
+
+#: vc-addons/service/service.php:123
+msgid "Select custom to create your own theme."
+msgstr ""
+
+#: vc-addons/service/service.php:132
+msgid "This color will apply in navigation arrow and dot."
+msgstr ""
+
+#: vc-addons/service/service.php:141
+msgid "Choose your animation style."
+msgstr ""
+
+#: vc-addons/service/service.php:152
+msgid "Service Item"
+msgstr ""
+
+#: vc-addons/service/service.php:153
+msgid "Add services item"
+msgstr ""
+
+#: vc-addons/service/service.php:167
+msgid "Set the heading of services box. Example - Support Forum."
+msgstr ""
+
+#: vc-addons/service/service.php:175
+msgid "Additional Title"
+msgstr ""
+
+#: vc-addons/service/service.php:178
+msgid "Setup additional service text. Example - Starting@99"
+msgstr ""
+
+#: vc-addons/service/service.php:185
+msgid "Display Short Description"
+msgstr ""
+
+#: vc-addons/service/service.php:192 vc-addons/service/service.php:282
+#: vc-addons/service/service.php:441
+msgid "Choose Custom to create your own service box."
+msgstr ""
+
+#: vc-addons/service/service.php:199
+msgid "Display Short Description?"
+msgstr ""
+
+#: vc-addons/service/service.php:210
+msgid "Short Description"
+msgstr ""
+
+#: vc-addons/service/service.php:213
+msgid "Add short description for service."
+msgstr ""
+
+#: vc-addons/service/service.php:220
+msgid "Service Icon"
+msgstr ""
+
+#: vc-addons/service/service.php:235 vc-addons/service/service.php:403
+msgid "Hide Service Icon?"
+msgstr ""
+
+#: vc-addons/service/service.php:243 vc-addons/service/service.php:381
+msgid "Service Image"
+msgstr ""
+
+#: vc-addons/service/service.php:245 vc-addons/service/service.php:383
+msgid "Add service box image. Recommended Size: 800 X 530 px."
+msgstr ""
+
+#: vc-addons/service/service.php:252 vc-addons/service/service.php:412
+msgid "Service Page URL"
+msgstr ""
+
+#: vc-addons/service/service.php:255 vc-addons/service/service.php:415
+msgid "You can set custom link for service."
+msgstr ""
+
+#: vc-addons/service/service.php:269
+msgid "Set content alignment of service block."
+msgstr ""
+
+#: vc-addons/service/service.php:292
+msgid "Regular service box background."
+msgstr ""
+
+#: vc-addons/service/service.php:300
+msgid "Icon/Additional Title Background"
+msgstr ""
+
+#: vc-addons/service/service.php:303 vc-addons/service/service.php:314
+msgid "Custom Additional Icon/Title background."
+msgstr ""
+
+#: vc-addons/service/service.php:311
+msgid "Icon/Additional Title Color"
+msgstr ""
+
+#: vc-addons/service/service.php:349
+msgid "Single Service"
+msgstr ""
+
+#: vc-addons/service/service.php:350
+msgid "Add Single Service Block In Page."
+msgstr ""
+
+#: vc-addons/service/service.php:389
+msgid "Sevice Icon"
+msgstr ""
+
+#: vc-addons/service/service.php:427
+msgid "Add additional class of service box."
+msgstr ""
+
+#: vc-addons/service/service.php:451
+msgid "This color will apply in service navigation button."
+msgstr ""
+
+#: vc-addons/slider/slider.php:11
+msgid "Slider Layout 01"
+msgstr ""
+
+#: vc-addons/slider/slider.php:21
+msgid "Slider Block"
+msgstr ""
+
+#: vc-addons/slider/slider.php:22
+msgid "Place Slider In Page."
+msgstr ""
+
+#: vc-addons/slider/slider.php:39
+msgid "Select slider layout style."
+msgstr ""
+
+#: vc-addons/slider/slider.php:54
+msgid "Hide Slider Navigation Arrow?"
+msgstr ""
+
+#: vc-addons/slider/slider.php:64
+msgid "Disable Slider Image Zoom Effect?"
+msgstr ""
+
+#: vc-addons/slider/slider.php:74
+msgid "Hide Slider Navigation Dots?"
+msgstr ""
+
+#: vc-addons/slider/slider.php:84
+msgid "Navigation Button Theme"
+msgstr ""
+
+#: vc-addons/slider/slider.php:94
+msgid "Navigation Background"
+msgstr ""
+
+#: vc-addons/slider/slider.php:97
+msgid "Set navigation background."
+msgstr ""
+
+#: vc-addons/slider/slider.php:105
+msgid "Navigation Icon Color"
+msgstr ""
+
+#: vc-addons/slider/slider.php:108
+msgid "Set navigation icon color."
+msgstr ""
+
+#: vc-addons/slider/slider.php:115
+msgid "Left Navigation Icon"
+msgstr ""
+
+#: vc-addons/slider/slider.php:130
+msgid "Right Navigation Icon"
+msgstr ""
+
+#: vc-addons/slider/slider.php:149
+msgid "Slider Item"
+msgstr ""
+
+#: vc-addons/slider/slider.php:150
+msgid "Add Slider Item."
+msgstr ""
+
+#: vc-addons/slider/slider.php:159
+msgid "Slider Title Text"
+msgstr ""
+
+#: vc-addons/slider/slider.php:161
+msgid "You can add html and custom css code as slider title text."
+msgstr ""
+
+#: vc-addons/slider/slider.php:168
+msgid "Additional Slider Title Class"
+msgstr ""
+
+#: vc-addons/slider/slider.php:171 vc-addons/slider/slider.php:211
+msgid "Example: theme-custom-no-text-shadow"
+msgstr ""
+
+#: vc-addons/slider/slider.php:177
+msgid "Content Animation in Style"
+msgstr ""
+
+#: vc-addons/slider/slider.php:187
+msgid "Content Animation Out Style"
+msgstr ""
+
+#: vc-addons/slider/slider.php:198
+msgid "Slider Sub Title"
+msgstr ""
+
+#: vc-addons/slider/slider.php:208
+msgid "Additional Slider Sub Title Class"
+msgstr ""
+
+#: vc-addons/slider/slider.php:217
+msgid "Hide Slider Sub Title"
+msgstr ""
+
+#: vc-addons/slider/slider.php:240
+msgid "Slider Background Image"
+msgstr ""
+
+#: vc-addons/slider/slider.php:293
+msgid "Slider Sub Title Text Color"
+msgstr ""
+
+#: vc-addons/slider/slider.php:334
+msgid "Additional Button#1 Class"
+msgstr ""
+
+#: vc-addons/slider/slider.php:337 vc-addons/slider/slider.php:447
+msgid "Example: btn-theme-invert, btn-theme-white, btn-square, btn-small"
+msgstr ""
+
+#: vc-addons/slider/slider.php:444
+msgid "Additional Button#2 Class"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:10
+msgid "Social Link"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:11
+msgid "Place Social Info In Page."
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:22 vc-addons/team/team.php:275
+msgid "Twitter"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:33 vc-addons/team/team.php:268
+msgid "Facebook"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:44
+msgid "instagram"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:55
+msgid "Pinterest"
+msgstr ""
+
+#: vc-addons/social_link/social_link.php:70
+msgid "Add additional class for social link layout."
+msgstr ""
+
+#: vc-addons/team/team.php:11
+msgid "Layout 01 (Social Icon Bottom)"
+msgstr ""
+
+#: vc-addons/team/team.php:12
+msgid "Layout 02 (Social Icon Left)"
+msgstr ""
+
+#: vc-addons/team/team.php:17
+msgid "Team Block"
+msgstr ""
+
+#: vc-addons/team/team.php:18
+msgid "Add Team Members In Page."
+msgstr ""
+
+#: vc-addons/team/team.php:34
+msgid "Team Layout"
+msgstr ""
+
+#: vc-addons/team/team.php:37
+msgid "Select team layout style."
+msgstr ""
+
+#: vc-addons/team/team.php:111
+msgid "Social Icon Style"
+msgstr ""
+
+#: vc-addons/team/team.php:114
+msgid "Rounded"
+msgstr ""
+
+#: vc-addons/team/team.php:115
+msgid "Square"
+msgstr ""
+
+#: vc-addons/team/team.php:127
+msgid "This color will apply on soical icon background and navigation button."
+msgstr ""
+
+#: vc-addons/team/team.php:135
+msgid "Social Icon Color"
+msgstr ""
+
+#: vc-addons/team/team.php:138
+msgid "This color will apply on soical icon color."
+msgstr ""
+
+#: vc-addons/team/team.php:146
+msgid "Team Name Color"
+msgstr ""
+
+#: vc-addons/team/team.php:149
+msgid "This color will apply on team member name text."
+msgstr ""
+
+#: vc-addons/team/team.php:157
+msgid "Team Designation Color"
+msgstr ""
+
+#: vc-addons/team/team.php:160
+msgid "This color will apply on team member designation text."
+msgstr ""
+
+#: vc-addons/team/team.php:171 vc-addons/team/team.php:240
+msgid "Add additional class of team box."
+msgstr ""
+
+#: vc-addons/team/team.php:190
+msgid "Team Item"
+msgstr ""
+
+#: vc-addons/team/team.php:200
+msgid "Member Name"
+msgstr ""
+
+#: vc-addons/team/team.php:209
+msgid "Member Info"
+msgstr ""
+
+#: vc-addons/team/team.php:217
+msgid "Team Image"
+msgstr ""
+
+#: vc-addons/team/team.php:225
+msgid "Custom Profile Link"
+msgstr ""
+
+#: vc-addons/team/team.php:228
+msgid "Add custom team profile link."
+msgstr ""
+
+#: vc-addons/team/team.php:250
+msgid "Set content alignment of team info block."
+msgstr ""
+
+#: vc-addons/team/team.php:256
+msgid "Disable Social Link?"
+msgstr ""
+
+#: vc-addons/team/team.php:263
+msgid "Hide social link button from team block."
+msgstr ""
+
+#: vc-addons/team/team.php:282
+msgid "Google Plus"
+msgstr ""
+
+#: vc-addons/team/team.php:289
+msgid "Linkedin"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:12
+msgid "Simple Layout (Without Carousel)"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:16
+msgid "Large Icon"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:17
+msgid "Small Icon"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:23
+msgid "Place Testimonials In Page."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:38
+msgid "Testimonial Layout"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:42
+#: vc-addons/testimonial/testimonial.php:54
+msgid "Select Testimonial Layout Style."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:59
+msgid "Item Per Row"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:105
+msgid "Add additional class of testimonial box."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:140
+msgid "This color will apply in quote icon, navigation arrow and dot."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:148
+msgid "Testimonial Background"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:151
+msgid "This color will apply in testimonial container background."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:159
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:162
+msgid "This color will apply in testimonial text color."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:170
+msgid "Testimonial Designation Color"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:173
+msgid "This color will apply in testimonial designation color."
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:183
+msgid "Testimonial Item"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:195
+msgid "Testimonial Text"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:202
+msgid "User Name"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:208
+msgid "User Designation"
+msgstr ""
+
+#: vc-addons/testimonial/testimonial.php:215
+msgid "User Image"
+msgstr ""
+
+#: vc-addons/video/video.php:11
+msgid "Layout 01 (Video Link With Image) "
+msgstr ""
+
+#: vc-addons/video/video.php:12
+msgid "Layout 02 (Video Link Without Iimage) "
+msgstr ""
+
+#: vc-addons/video/video.php:16
+msgid "Video Box"
+msgstr ""
+
+#: vc-addons/video/video.php:17
+msgid "Display Video Box In Page."
+msgstr ""
+
+#: vc-addons/video/video.php:37
+msgid "Video Background Image"
+msgstr ""
+
+#: vc-addons/video/video.php:47
+msgid "Video Icon"
+msgstr ""
+
+#: vc-addons/video/video.php:62
+msgid "Video Link"
+msgstr ""
+
+#: vc-addons/video/video.php:65
+msgid "Video CTA Link Example: https://www.youtube.com/watch?v=nrJtHemSPW4"
+msgstr ""
+
+#: vc-addons/video/video.php:77
+msgid "Add additional class of video box."
+msgstr ""
+
+#: vc-addons/video/video.php:85
+msgid "Button Design"
+msgstr ""
+
+#: vc-addons/video/video.php:88
+msgid "Rouned Icon"
+msgstr ""
+
+#: vc-addons/video/video.php:89
+msgid "Square Icon"
+msgstr ""
+
+#: vc-addons/video/video.php:91
+msgid "Set video button design."
+msgstr ""
+
+#: vc-addons/video/video.php:98
+msgid "Button Alignment"
+msgstr ""
+
+#: vc-addons/video/video.php:102
+msgid "Bottom Left"
+msgstr ""
+
+#: vc-addons/video/video.php:103
+msgid "Bottom Right"
+msgstr ""
+
+#: vc-addons/video/video.php:105
+msgid "Set video button position."
+msgstr ""
+
+#: vc-addons/video/video.php:128
+msgid "This color will apply in Icon border button."
+msgstr ""
